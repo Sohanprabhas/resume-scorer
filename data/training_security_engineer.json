@@ -1,0 +1,1092 @@
+[
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Cybersecurity, Penetration Testing, Wireshark, Metasploit, AWS Security, TCP/IP, Git, SIEM",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Photoshop, Marketing, SEO, Visual Identity, CRM, Salesforce, WordPress",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Network Security, Firewalls, Kali Linux, Burp Suite, Azure Security, SSL/TLS, Git, IDS/IPS",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Animation, Game Design, Arduino, Interior Design, Motion Graphics, Photoshop",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Ethical Hacking, Vulnerability Assessment, Splunk, OWASP, GCP Security, Linux, Git, SOC",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Hospitality, Accounting, Tally, CRM, Visual Identity, SEO, WordPress",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Cybersecurity, Penetration Testing, Nessus, Metasploit, AWS Security, TCP/IP, Git, SIEM",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Customer Service, Visual Identity, Motion Graphics, WordPress, Scrum, Salesforce",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Network Security, Firewalls, Wireshark, Burp Suite, Azure Security, SSL/TLS, Git, IDS/IPS",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "SEO, Marketing, C#, Accounting, Networking, Visual Identity, Interior Design",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Ethical Hacking, Vulnerability Assessment, Splunk, OWASP, GCP Security, Linux, Git, SOC",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "SEO, Game Design, Hospitality, Marketing, Linux, Photoshop, Arduino",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Cybersecurity, Penetration Testing, Nessus, Metasploit, AWS Security, TCP/IP, Git, SIEM",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Animation, Salesforce, Accounting, Visual Identity, Arduino, Motion Graphics",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Network Security, Firewalls, Wireshark, Burp Suite, Azure Security, SSL/TLS, Git, IDS/IPS",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "CRM, Networking, Accounting, Arduino, Photoshop, SEO, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Ethical Hacking, Vulnerability Assessment, Splunk, OWASP, GCP Security, Linux, Git, SOC",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Scrum, Animation, Linux, SEO, Tally, Visual Identity, WordPress",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Cybersecurity, Penetration Testing, Nessus, Metasploit, AWS Security, TCP/IP, Git, SIEM",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Customer Service, PCB Design, CRM, Linux, Interior Design, Motion Graphics",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Network Security, Firewalls, Wireshark, Burp Suite, Azure Security, SSL/TLS, Git, IDS/IPS",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Accounting, Hospitality, Linux, Visual Identity, Photoshop, SEO, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Ethical Hacking, Vulnerability Assessment, Splunk, OWASP, GCP Security, Linux, Git, SOC",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Visual Identity, Tally, C#, Game Design, Motion Graphics, SEO, WordPress",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Cybersecurity, Penetration Testing, Nessus, Metasploit, AWS Security, TCP/IP, Git, SIEM",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Customer Service, Scrum, Game Design, Accounting, Motion Graphics, Salesforce",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Network Security, Firewalls, Wireshark, Burp Suite, Azure Security, SSL/TLS, Git, IDS/IPS",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Arduino, WordPress, Salesforce, Scrum, PCB Design, SEO, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Ethical Hacking, Vulnerability Assessment, Splunk, OWASP, GCP Security, Linux, Git, SOC",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "C#, Animation, Accounting, Tally, PCB Design, Marketing, Photoshop",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Cybersecurity, Penetration Testing, Nessus, Metasploit, AWS Security, TCP/IP, Git, SIEM",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Linux, Arduino, Salesforce, C#, Scrum, CRM, Tally, Networking",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Network Security, Firewalls, Wireshark, Burp Suite, Azure Security, SSL/TLS, Git, IDS/IPS",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Game Design, Visual Identity, CRM, Photoshop, Interior Design, SEO",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Ethical Hacking, Vulnerability Assessment, Splunk, OWASP, GCP Security, Linux, Git, SOC",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Salesforce, Interior Design, CRM, WordPress, Marketing, SEO, Visual Identity",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Cybersecurity, Penetration Testing, Nessus, Metasploit, AWS Security, TCP/IP, Git, SIEM",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "CRM, WordPress, Accounting, Photoshop, Linux, Motion Graphics, Hospitality",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Network Security, Firewalls, Wireshark, Burp Suite, Azure Security, SSL/TLS, Git, IDS/IPS",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Scrum, Interior Design, Arduino, Photoshop, Accounting, Marketing, Visual Identity",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Ethical Hacking, Vulnerability Assessment, Splunk, OWASP, GCP Security, Linux, Git, SOC",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "SEO, Linux, Arduino, Accounting, Tally, Marketing, WordPress",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Cybersecurity, Penetration Testing, Nessus, Metasploit, AWS Security, TCP/IP, Git, SIEM",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Networking, Accounting, PCB Design, Tally, Salesforce, Visual Identity, CRM",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Network Security, Firewalls, Wireshark, Burp Suite, Azure Security, SSL/TLS, Git, IDS/IPS",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Marketing, Photoshop, Hospitality, WordPress, SEO, CRM, Visual Identity",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Ethical Hacking, Vulnerability Assessment, Splunk, OWASP, GCP Security, Linux, Git, SOC",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "SEO, WordPress, Animation, Photoshop, Scrum, Accounting, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Cybersecurity, Penetration Testing, Nessus, Metasploit, AWS Security, TCP/IP, Git, SIEM",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Motion Graphics, Photoshop, Hospitality, Interior Design, Visual Identity, SEO",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Network Security, Firewalls, Wireshark, Burp Suite, Azure Security, SSL/TLS, Git, IDS/IPS",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Interior Design, Animation, Motion Graphics, Arduino, Customer Service, Salesforce",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Ethical Hacking, Vulnerability Assessment, Splunk, OWASP, GCP Security, Linux, Git, SOC",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Salesforce, Linux, Motion Graphics, Networking, Visual Identity, Scrum, SEO",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Cybersecurity, Penetration Testing, Nessus, Metasploit, AWS Security, TCP/IP, Git, SIEM",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Visual Identity, Photoshop, Motion Graphics, Marketing, PCB Design, SEO",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Network Security, Firewalls, Wireshark, Burp Suite, Azure Security, SSL/TLS, Git, IDS/IPS",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Scrum, WordPress, Interior Design, SEO, Marketing, C#, Visual Identity",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Ethical Hacking, Vulnerability Assessment, Splunk, OWASP, GCP Security, Linux, Git, SOC",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Accounting, Interior Design, PCB Design, Scrum, Salesforce, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Cybersecurity, Penetration Testing, Nessus, Metasploit, AWS Security, TCP/IP, Git, SIEM",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Photoshop, Networking, Interior Design, Accounting, Customer Service, Animation",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Network Security, Firewalls, Wireshark, Burp Suite, Azure Security, SSL/TLS, Git, IDS/IPS",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Interior Design, Game Design, Motion Graphics, CRM, Salesforce, SEO",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Ethical Hacking, Vulnerability Assessment, Splunk, OWASP, GCP Security, Linux, Git, SOC",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Accounting, Hospitality, Salesforce, Customer Service, Motion Graphics, SEO",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Cybersecurity, Penetration Testing, Nessus, Metasploit, AWS Security, TCP/IP, Git, SIEM",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "CRM, Scrum, Marketing, SEO, Interior Design, Motion Graphics, Visual Identity",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Network Security, Firewalls, Wireshark, Burp Suite, Azure Security, SSL/TLS, Git, IDS/IPS",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "SEO, Visual Identity, Animation, Marketing, Motion Graphics, Photoshop, CRM",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Ethical Hacking, Vulnerability Assessment, Splunk, OWASP, GCP Security, Linux, Git, SOC",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Customer Service, Accounting, Animation, CRM, Salesforce, Marketing, SEO",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Cybersecurity, Penetration Testing, Nessus, Metasploit, AWS Security, TCP/IP, Git, SIEM",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Interior Design, Arduino, Linux, Visual Identity, WordPress, SEO, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Network Security, Firewalls, Wireshark, Burp Suite, Azure Security, SSL/TLS, Git, IDS/IPS",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Arduino, Marketing, Interior Design, Salesforce, Visual Identity, CRM, SEO",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Ethical Hacking, Vulnerability Assessment, Splunk, OWASP, GCP Security, Linux, Git, SOC",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "WordPress, Interior Design, Photoshop, Visual Identity, PCB Design, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Cybersecurity, Penetration Testing, Nessus, Metasploit, AWS Security, TCP/IP, Git, SIEM",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Hospitality, WordPress, Networking, Marketing, SEO, CRM, Visual Identity",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Network Security, Firewalls, Wireshark, Burp Suite, Azure Security, SSL/TLS, Git, IDS/IPS",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "CRM, SEO, Photoshop, Tally, PCB Design, Arduino, Salesforce",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Ethical Hacking, Vulnerability Assessment, Splunk, OWASP, GCP Security, Linux, Git, SOC",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Marketing, Networking, Photoshop, C#, Hospitality, Interior Design, SEO",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Cybersecurity, Penetration Testing, Nessus, Metasploit, AWS Security, TCP/IP, Git, SIEM",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Hospitality, Arduino, Interior Design, Marketing, WordPress, SEO, CRM",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Network Security, Firewalls, Wireshark, Burp Suite, Azure Security, SSL/TLS, Git, IDS/IPS",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "C#, Networking, PCB Design, SEO, CRM, Hospitality, Marketing, Visual Identity",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Ethical Hacking, Vulnerability Assessment, Splunk, OWASP, GCP Security, Linux, Git, SOC",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "CRM, Motion Graphics, Game Design, PCB Design, Interior Design, Linux",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Cybersecurity, Penetration Testing, Nessus, Metasploit, AWS Security, TCP/IP, Git, SIEM",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Salesforce, SEO, Animation, Marketing, CRM, Visual Identity, Photoshop",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Network Security, Firewalls, Wireshark, Burp Suite, Azure Security, SSL/TLS, Git, IDS/IPS",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Linux, Motion Graphics, Photoshop, SEO, Marketing, CRM, Visual Identity",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Ethical Hacking, Vulnerability Assessment, Splunk, OWASP, GCP Security, Linux, Git, SOC",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Accounting, Arduino, CRM, Visual Identity, Networking, Marketing, SEO",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Cybersecurity, Penetration Testing, Nessus, Metasploit, AWS Security, TCP/IP, Git, SIEM",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Arduino, Hospitality, PCB Design, Networking, Photoshop, Marketing, CRM",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Network Security, Firewalls, Wireshark, Burp Suite, Azure Security, SSL/TLS, Git, IDS/IPS",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Interior Design, Marketing, C#, Photoshop, SEO, Visual Identity, CRM",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Ethical Hacking, Vulnerability Assessment, Splunk, OWASP, GCP Security, Linux, Git, SOC",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Arduino, Linux, WordPress, Scrum, Visual Identity, Networking, C#",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Cybersecurity, Penetration Testing, Nessus, Metasploit, AWS Security, TCP/IP, Git, SIEM",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Photoshop, Game Design, Networking, Customer Service, WordPress, SEO",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Network Security, Firewalls, Wireshark, Burp Suite, Azure Security, SSL/TLS, Git, IDS/IPS",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Tally, Motion Graphics, C#, Networking, Animation, SEO, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Ethical Hacking, Vulnerability Assessment, Splunk, OWASP, GCP Security, Linux, Git, SOC",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Linux, Hospitality, C#, Visual Identity, Salesforce, Marketing, CRM",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Cybersecurity, Penetration Testing, Nessus, Metasploit, AWS Security, TCP/IP, Git, SIEM",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Visual Identity, Game Design, WordPress, Customer Service, Marketing, SEO",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Network Security, Firewalls, Wireshark, Burp Suite, Azure Security, SSL/TLS, Git, IDS/IPS",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Scrum, Visual Identity, Photoshop, PCB Design, Linux, SEO, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Ethical Hacking, Vulnerability Assessment, Splunk, OWASP, GCP Security, Linux, Git, SOC",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Tally, C#, Networking, Photoshop, Customer Service, Animation, Accounting",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Cybersecurity, Penetration Testing, Nessus, Metasploit, AWS Security, TCP/IP, Git, SIEM",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Linux, PCB Design, Tally, SEO, Animation, Marketing, Salesforce",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Network Security, Firewalls, Wireshark, Burp Suite, Azure Security, SSL/TLS, Git, IDS/IPS",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Salesforce, PCB Design, Linux, Customer Service, Scrum, Marketing, SEO",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Ethical Hacking, Vulnerability Assessment, Splunk, OWASP, GCP Security, Linux, Git, SOC",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Salesforce, C#, Hospitality, PCB Design, SEO, Marketing, CRM",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Cybersecurity, Penetration Testing, Nessus, Metasploit, AWS Security, TCP/IP, Git, SIEM",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "CRM, Animation, SEO, WordPress, Scrum, Marketing, Visual Identity",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Network Security, Firewalls, Wireshark, Burp Suite, Azure Security, SSL/TLS, Git, IDS/IPS",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Interior Design, Arduino, Linux, Visual Identity, WordPress, SEO, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Ethical Hacking, Vulnerability Assessment, Splunk, OWASP, GCP Security, Linux, Git, SOC",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Arduino, Marketing, Interior Design, Salesforce, Visual Identity, CRM, SEO",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Cybersecurity, Penetration Testing, Nessus, Metasploit, AWS Security, TCP/IP, Git, SIEM",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Accounting, Tally, SEO, Salesforce, Hospitality, PCB Design, Visual Identity",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Network Security, Firewalls, Wireshark, Burp Suite, Azure Security, SSL/TLS, Git, IDS/IPS",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Arduino, CRM, Game Design, Linux, Motion Graphics, Animation, SEO",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Ethical Hacking, Vulnerability Assessment, Splunk, OWASP, GCP Security, Linux, Git, SOC",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Photoshop, Customer Service, Visual Identity, Linux, Animation, SEO, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Cybersecurity, Penetration Testing, Nessus, Metasploit, AWS Security, TCP/IP, Git, SIEM",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Visual Identity, PCB Design, Motion Graphics, Linux, Marketing, SEO",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Network Security, Firewalls, Wireshark, Burp Suite, Azure Security, SSL/TLS, Git, IDS/IPS",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Interior Design, PCB Design, Accounting, SEO, Game Design, C#, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Ethical Hacking, Vulnerability Assessment, Splunk, OWASP, GCP Security, Linux, Git, SOC",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Accounting, Scrum, CRM, Interior Design, WordPress, SEO, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Cybersecurity, Penetration Testing, Nessus, Metasploit, AWS Security, TCP/IP, Git, SIEM",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Interior Design, SEO, Linux, CRM, PCB Design, Animation, Customer Service",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Network Security, Firewalls, Wireshark, Burp Suite, Azure Security, SSL/TLS, Git, IDS/IPS",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Visual Identity, Interior Design, SEO, Salesforce, CRM, Marketing, Photoshop",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Ethical Hacking, Vulnerability Assessment, Splunk, OWASP, GCP Security, Linux, Git, SOC",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Hospitality, WordPress, Animation, Salesforce, Tally, Motion Graphics, CRM",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Cybersecurity, Penetration Testing, Nessus, Metasploit, AWS Security, TCP/IP, Git, SIEM",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "SEO, Visual Identity, Accounting, PCB Design, Photoshop, Marketing, CRM",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Network Security, Firewalls, Wireshark, Burp Suite, Azure Security, SSL/TLS, Git, IDS/IPS",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "CRM, Visual Identity, WordPress, Marketing, SEO, Photoshop, Accounting",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Ethical Hacking, Vulnerability Assessment, Splunk, OWASP, GCP Security, Linux, Git, SOC",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Tally, Game Design, Linux, Customer Service, SEO, Marketing, CRM",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Cybersecurity, Penetration Testing, Nessus, Metasploit, AWS Security, TCP/IP, Git, SIEM",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Accounting, Scrum, CRM, Motion Graphics, SEO, Customer Service, Photoshop",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Network Security, Firewalls, Wireshark, Burp Suite, Azure Security, SSL/TLS, Git, IDS/IPS",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Motion Graphics, Salesforce, Customer Service, Accounting, Photoshop, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Ethical Hacking, Vulnerability Assessment, Splunk, OWASP, GCP Security, Linux, Git, SOC",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Networking, WordPress, Animation, Interior Design, SEO, Motion Graphics",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Cybersecurity, Penetration Testing, Nessus, Metasploit, AWS Security, TCP/IP, Git, SIEM",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Linux, CRM, Customer Service, Game Design, SEO, Scrum, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Network Security, Firewalls, Wireshark, Burp Suite, Azure Security, SSL/TLS, Git, IDS/IPS",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Marketing, Linux, CRM, SEO, Motion Graphics, Accounting, Visual Identity",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Ethical Hacking, Vulnerability Assessment, Splunk, OWASP, GCP Security, Linux, Git, SOC",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Scrum, Visual Identity, Tally, Interior Design, Marketing, SEO, CRM",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Cybersecurity, Penetration Testing, Nessus, Metasploit, AWS Security, TCP/IP, Git, SIEM",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Game Design, Visual Identity, Arduino, C#, Tally, Salesforce, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Network Security, Firewalls, Wireshark, Burp Suite, Azure Security, SSL/TLS, Git, IDS/IPS",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "WordPress, Linux, Accounting, Photoshop, Scrum, Salesforce, Arduino",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Ethical Hacking, Vulnerability Assessment, Splunk, OWASP, GCP Security, Linux, Git, SOC",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Hospitality, PCB Design, CRM, Interior Design, SEO, Accounting",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Cybersecurity, Penetration Testing, Nessus, Metasploit, AWS Security, TCP/IP, Git, SIEM",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "WordPress, Marketing, Salesforce, CRM, Tally, PCB Design, SEO",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Network Security, Firewalls, Wireshark, Burp Suite, Azure Security, SSL/TLS, Git, IDS/IPS",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "SEO, Visual Identity, Networking, Interior Design, Marketing, CRM, Photoshop",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Ethical Hacking, Vulnerability Assessment, Splunk, OWASP, GCP Security, Linux, Git, SOC",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Motion Graphics, C#, Animation, CRM, Marketing, SEO, Visual Identity",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Cybersecurity, Penetration Testing, Nessus, Metasploit, AWS Security, TCP/IP, Git, SIEM",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Linux, SEO, Tally, Marketing, CRM, Visual Identity, Photoshop",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Network Security, Firewalls, Wireshark, Burp Suite, Azure Security, SSL/TLS, Git, IDS/IPS",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Tally, PCB Design, Linux, Game Design, C#, Photoshop, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Ethical Hacking, Vulnerability Assessment, Splunk, OWASP, GCP Security, Linux, Git, SOC",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Marketing, PCB Design, Game Design, Networking, Tally, SEO, CRM",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Cybersecurity, Penetration Testing, Nessus, Metasploit, AWS Security, TCP/IP, Git, SIEM",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Salesforce, Marketing, Networking, Scrum, C#, Tally, Visual Identity",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Network Security, Firewalls, Wireshark, Burp Suite, Azure Security, SSL/TLS, Git, IDS/IPS",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Game Design, Motion Graphics, Customer Service, C#, Marketing, SEO",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Ethical Hacking, Vulnerability Assessment, Splunk, OWASP, GCP Security, Linux, Git, SOC",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Customer Service, C#, Photoshop, PCB Design, Networking, Marketing, SEO",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Cybersecurity, Penetration Testing, Nessus, Metasploit, AWS Security, TCP/IP, Git, SIEM",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "WordPress, Scrum, Customer Service, Linux, Game Design, SEO, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Network Security, Firewalls, Wireshark, Burp Suite, Azure Security, SSL/TLS, Git, IDS/IPS",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Game Design, Arduino, Customer Service, Interior Design, SEO, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Ethical Hacking, Vulnerability Assessment, Splunk, OWASP, GCP Security, Linux, Git, SOC",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "SEO, Visual Identity, Customer Service, Marketing, CRM, Photoshop",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Cybersecurity, Penetration Testing, Nessus, Metasploit, AWS Security, TCP/IP, Git, SIEM",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "CRM, Tally, Scrum, Hospitality, Marketing, Visual Identity, SEO",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Network Security, Firewalls, Wireshark, Burp Suite, Azure Security, SSL/TLS, Git, IDS/IPS",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Accounting, Photoshop, Linux, Customer Service, Marketing, SEO, CRM",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Ethical Hacking, Vulnerability Assessment, Splunk, OWASP, GCP Security, Linux, Git, SOC",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "CRM, Visual Identity, Scrum, Customer Service, Marketing, SEO, Photoshop",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Cybersecurity, Penetration Testing, Nessus, Metasploit, AWS Security, TCP/IP, Git, SIEM",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Animation, SEO, PCB Design, Visual Identity, Marketing, CRM, Photoshop",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Network Security, Firewalls, Wireshark, Burp Suite, Azure Security, SSL/TLS, Git, IDS/IPS",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Motion Graphics, WordPress, C#, SEO, Networking, Marketing, CRM",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Ethical Hacking, Vulnerability Assessment, Splunk, OWASP, GCP Security, Linux, Git, SOC",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Marketing, Photoshop, CRM, SEO, Visual Identity, WordPress",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Cybersecurity, Penetration Testing, Nessus, Metasploit, AWS Security, TCP/IP, Git, SIEM",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Customer Service, WordPress, Networking, Tally, SEO, Marketing, CRM",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Network Security, Firewalls, Wireshark, Burp Suite, Azure Security, SSL/TLS, Git, IDS/IPS",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Tally, CRM, Customer Service, PCB Design, Visual Identity, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Ethical Hacking, Vulnerability Assessment, Splunk, OWASP, GCP Security, Linux, Git, SOC",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "PCB Design, Linux, Game Design, Visual Identity, Marketing, SEO",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Cybersecurity, Penetration Testing, Nessus, Metasploit, AWS Security, TCP/IP, Git, SIEM",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Arduino, PCB Design, Interior Design, Motion Graphics, Linux, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Network Security, Firewalls, Wireshark, Burp Suite, Azure Security, SSL/TLS, Git, IDS/IPS",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Marketing, Tally, Game Design, PCB Design, Animation, SEO",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Ethical Hacking, Vulnerability Assessment, Splunk, OWASP, GCP Security, Linux, Git, SOC",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "PCB Design, Customer Service, Marketing, SEO, Visual Identity",
+    "label": 0
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Cybersecurity, Penetration Testing, Nessus, Metasploit, AWS Security, TCP/IP, Git, SIEM",
+    "label": 1
+  },
+  {
+    "goal": "Security Engineer",
+    "resume_text": "Marketing, WordPress, Game Design, Interior Design, Customer Service, SEO",
+    "label": 0
+  }
+]

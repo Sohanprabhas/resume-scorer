@@ -1,0 +1,1362 @@
+[
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Node.js, MongoDB, JavaScript, AWS, Git, Docker, REST API, TypeScript",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Salesforce, Marketing, SEO, Photoshop, Visual Identity, CRM, WordPress",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Angular, Java, Spring Boot, MySQL, HTML, CSS, JavaScript, Jenkins, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Animation, Motion Graphics, Game Design, Arduino, Interior Design, Photoshop",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Vue.js, Express.js, PostgreSQL, GraphQL, JavaScript, AWS, CI/CD, Nginx",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Hospitality, Accounting, Tally, CRM, Dart, Flutter, Visual Identity",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Python, Django, React, SQLite, HTML, CSS, JavaScript, Docker, Git",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Customer Service, Linux, Visual Identity, Motion Graphics, WordPress, Scrum",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Node.js, Angular, MongoDB, REST API, JavaScript, Azure, Webpack, TypeScript",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "SEO, Marketing, C#, Accounting, Networking, Visual Identity, Interior Design",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Laravel, PHP, MySQL, JavaScript, HTML, CSS, Git, AWS",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Flutter, SEO, Game Design, Hospitality, DevOps, Marketing, Linux, Kubernetes",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "JavaScript, Vue.js, Node.js, Express.js, MongoDB, HTML, CSS, Jenkins, GraphQL",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Animation, Salesforce, Angular, Accounting, Spring Boot, Visual Identity",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Python, Flask, PostgreSQL, JavaScript, HTML, CSS, Docker, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "CRM, Dart, Flutter, Networking, Accounting, Arduino, Photoshop",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Angular, Node.js, MySQL, REST API, JavaScript, AWS, Git, TypeScript, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Scrum, Animation, Linux, Android, SEO, Tally, Dart, Visual Identity",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Vue.js, Java, Spring Boot, MongoDB, JavaScript, HTML, CSS, Azure, Docker",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Customer Service, PCB Design, CRM, Linux, Angular, Interior Design, Motion Graphics",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Express.js, PostgreSQL, JavaScript, HTML, CSS, Git, AWS, Webpack",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Flutter, Ansible, Android, Accounting, Kubernetes, Hospitality, Linux, DevOps",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Node.js, Vue.js, MySQL, GraphQL, JavaScript, HTML, CSS, Jenkins, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Visual Identity, Tally, C#, Angular, Spring Boot, Game Design, Android",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Python, Django, Angular, SQLite, JavaScript, HTML, CSS, Docker, Git",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Customer Service, Scrum, Game Design, Accounting, Motion Graphics, Spring Boot",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Node.js, MongoDB, REST API, JavaScript, AWS, TypeScript, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Arduino, WordPress, Salesforce, Kubernetes, Scrum, PCB Design, SEO",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Vue.js, Express.js, PostgreSQL, JavaScript, HTML, CSS, Git, Azure, Webpack",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "C#, Animation, Java, Accounting, Tally, PCB Design, Marketing, Photoshop",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Angular, Java, Spring Boot, MySQL, JavaScript, HTML, CSS, Docker, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Linux, Arduino, Salesforce, C#, Scrum, CRM, Tally, Ansible, DevOps",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Python, Flask, MongoDB, JavaScript, HTML, CSS, Git, AWS",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Game Design, Visual Identity, Java, Dart, CRM, Photoshop, Interior Design",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Node.js, Vue.js, PostgreSQL, REST API, JavaScript, HTML, CSS, Jenkins, Azure",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Salesforce, Interior Design, CRM, Java, Ansible, Spring Boot, WordPress",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Express.js, MySQL, JavaScript, HTML, CSS, Git, Docker, TypeScript",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "CRM, WordPress, Accounting, DevOps, Photoshop, Linux, Kubernetes, Motion Graphics",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Vue.js, Node.js, MongoDB, GraphQL, JavaScript, HTML, CSS, AWS, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Scrum, Interior Design, DevOps, Angular, Arduino, Photoshop, Accounting",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Angular, Python, Django, PostgreSQL, JavaScript, HTML, CSS, Docker, Git",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Dart, SEO, Linux, Arduino, Flutter, Accounting, Tally, Marketing, DevOps",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Java, Spring Boot, MySQL, JavaScript, HTML, CSS, Jenkins, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Dart, Networking, Accounting, Ansible, React, PCB Design, Angular, Tally",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Node.js, Vue.js, MongoDB, REST API, JavaScript, HTML, CSS, AWS, TypeScript",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Dart, Accounting, SEO, CRM, Animation, PCB Design, Salesforce, Scrum",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Express.js, React, PostgreSQL, JavaScript, HTML, CSS, Git, Docker, Azure",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Marketing, Photoshop, DevOps, Angular, Hospitality, WordPress, Android, React",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Vue.js, Python, Flask, MySQL, JavaScript, HTML, CSS, Jenkins, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "DevOps, SEO, React, WordPress, Animation, Photoshop, Scrum, Accounting",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Angular, Node.js, MongoDB, GraphQL, JavaScript, HTML, CSS, AWS, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Flutter, Motion Graphics, Photoshop, Hospitality, Interior Design, Visual Identity, Dart",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Java, Spring Boot, PostgreSQL, JavaScript, HTML, CSS, Docker, Git",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Interior Design, Animation, Motion Graphics, Arduino, Customer Service, Spring Boot",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Node.js, Vue.js, MySQL, REST API, JavaScript, HTML, CSS, Azure, TypeScript",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Salesforce, Ansible, Linux, Motion Graphics, Networking, Visual Identity, Scrum",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Express.js, React, MongoDB, JavaScript, HTML, CSS, Git, Docker, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Visual Identity, Photoshop, Spring Boot, Ansible, Motion Graphics, Marketing, PCB Design",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Vue.js, Python, Django, PostgreSQL, JavaScript, HTML, CSS, AWS, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Scrum, WordPress, Interior Design, Flutter, Spring Boot, SEO, Marketing, C#",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Angular, Node.js, MySQL, GraphQL, JavaScript, HTML, CSS, Docker, Git",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Accounting, Interior Design, React, DevOps, PCB Design, Scrum, Spring Boot",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Express.js, MongoDB, REST API, JavaScript, HTML, CSS, Azure, TypeScript",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Photoshop, React, Networking, Interior Design, Accounting, Customer Service, Animation",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Vue.js, Java, Spring Boot, PostgreSQL, JavaScript, HTML, CSS, Jenkins, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Kubernetes, Flutter, Salesforce, Interior Design, Ansible, Game Design, Spring Boot",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Node.js, React, MySQL, JavaScript, HTML, CSS, Git, Docker, AWS",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Accounting, DevOps, Hospitality, Salesforce, React, Customer Service, Motion Graphics",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Express.js, Vue.js, MongoDB, GraphQL, JavaScript, HTML, CSS, Azure, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "CRM, Angular, DevOps, Scrum, Marketing, SEO, Interior Design, Java, Motion Graphics",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Python, Flask, PostgreSQL, JavaScript, HTML, CSS, Docker, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "SEO, Kubernetes, Visual Identity, Animation, Dart, Marketing, Motion Graphics",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Angular, Node.js, MySQL, REST API, JavaScript, HTML, CSS, Git, AWS",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Java, Dart, Customer Service, Angular, Accounting, Animation, CRM",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Vue.js, Express.js, MongoDB, JavaScript, HTML, CSS, Jenkins, Azure, TypeScript",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Interior Design, Android, Arduino, Java, Linux, Visual Identity, WordPress",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Node.js, React, PostgreSQL, GraphQL, JavaScript, HTML, CSS, Docker, Git",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Dart, Arduino, Marketing, Interior Design, Salesforce, Visual Identity, Angular",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Express.js, Vue.js, MySQL, REST API, JavaScript, HTML, CSS, AWS, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "WordPress, Interior Design, Photoshop, Visual Identity, Angular, PCB Design, Kubernetes",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Python, Django, MongoDB, JavaScript, HTML, CSS, Git, Docker",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Hospitality, Ansible, DevOps, WordPress, Networking, Android, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Angular, Node.js, PostgreSQL, JavaScript, HTML, CSS, Jenkins, Azure, TypeScript",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "CRM, SEO, Photoshop, Tally, Angular, React, PCB Design, Arduino",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Vue.js, Express.js, MySQL, GraphQL, JavaScript, HTML, CSS, Git, AWS",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Marketing, Networking, Photoshop, Android, C#, Hospitality, Interior Design, WordPress",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Java, Spring Boot, MongoDB, JavaScript, HTML, CSS, Docker, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Hospitality, Arduino, Spring Boot, Interior Design, React, Marketing, WordPress",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Node.js, Vue.js, PostgreSQL, REST API, JavaScript, HTML, CSS, Git, Azure",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "C#, Networking, PCB Design, SEO, Dart, CRM, React, Hospitality",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Express.js, React, MySQL, JavaScript, HTML, CSS, Jenkins, Docker, TypeScript",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "CRM, Motion Graphics, Game Design, PCB Design, DevOps, Interior Design, Linux",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Vue.js, Python, Flask, MongoDB, JavaScript, HTML, CSS, Git, AWS",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Java, Ansible, Kubernetes, Dart, Salesforce, DevOps, SEO, Animation",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Angular, Node.js, PostgreSQL, GraphQL, JavaScript, HTML, CSS, Docker, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Tally, Linux, Ansible, Motion Graphics, DevOps, Dart, Photoshop, SEO",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Express.js, MongoDB, REST API, JavaScript, HTML, CSS, Git, AWS",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Accounting, DevOps, Arduino, CRM, Spring Boot, Visual Identity, Networking",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Vue.js, Java, Spring Boot, MySQL, JavaScript, HTML, CSS, Jenkins, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Arduino, Ansible, Hospitality, PCB Design, Spring Boot, Networking, Photoshop",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Node.js, React, PostgreSQL, JavaScript, HTML, CSS, Docker, Git, TypeScript",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Interior Design, Flutter, Angular, Marketing, Dart, C#, Kubernetes, Photoshop",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Express.js, Vue.js, MongoDB, GraphQL, JavaScript, HTML, CSS, AWS, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Arduino, Linux, WordPress, Scrum, Visual Identity, DevOps, Networking, C#",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Python, Django, MySQL, JavaScript, HTML, CSS, Git, Docker",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Android, Photoshop, Game Design, Networking, Customer Service, Ansible, WordPress",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Angular, Node.js, MongoDB, REST API, JavaScript, HTML, CSS, Jenkins, Azure",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Tally, Motion Graphics, Flutter, C#, Networking, Animation, Dart, Interior Design",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Vue.js, Express.js, PostgreSQL, JavaScript, HTML, CSS, Git, AWS, TypeScript",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Linux, Hospitality, C#, Visual Identity, Ansible, Angular, Dart, Salesforce",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Java, Spring Boot, MongoDB, JavaScript, HTML, CSS, Docker, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Visual Identity, Game Design, Android, Spring Boot, WordPress, Customer Service, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Node.js, Vue.js, MySQL, GraphQL, JavaScript, HTML, CSS, Git, Azure",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Scrum, Visual Identity, Photoshop, PCB Design, Linux, Spring Boot, SEO, Java",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Express.js, React, PostgreSQL, REST API, JavaScript, HTML, CSS, Docker, AWS",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Tally, C#, Networking, Kubernetes, Photoshop, Customer Service, Animation, Accounting",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Vue.js, Python, Flask, MongoDB, JavaScript, HTML, CSS, Jenkins, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Linux, Ansible, React, PCB Design, Tally, Java, SEO, DevOps, Animation",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Angular, Node.js, MySQL, JavaScript, HTML, CSS, Git, Docker, TypeScript",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Salesforce, Ansible, PCB Design, Linux, Customer Service, Java, DevOps, Scrum",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Express.js, MongoDB, GraphQL, JavaScript, HTML, CSS, AWS, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Kubernetes, Spring Boot, Android, Salesforce, C#, Hospitality, PCB Design, SEO",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Vue.js, Java, Spring Boot, PostgreSQL, JavaScript, HTML, CSS, Git, Docker",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Java, Dart, React, CRM, Animation, SEO, WordPress, Scrum",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Node.js, React, MySQL, REST API, JavaScript, HTML, CSS, Jenkins, Azure",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Interior Design, Android, Arduino, Java, Linux, Visual Identity, WordPress",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Express.js, Vue.js, MongoDB, JavaScript, HTML, CSS, Git, AWS, TypeScript",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Dart, Arduino, Marketing, Interior Design, Salesforce, Visual Identity, Angular",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Python, Django, PostgreSQL, JavaScript, HTML, CSS, Docker, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Accounting, Tally, SEO, Salesforce, Hospitality, Kubernetes, PCB Design, Visual Identity",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Angular, Node.js, MongoDB, GraphQL, JavaScript, HTML, CSS, Git, AWS",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "DevOps, Arduino, Spring Boot, CRM, Game Design, Linux, Motion Graphics, Animation",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Vue.js, Express.js, MySQL, REST API, JavaScript, HTML, CSS, Jenkins, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Photoshop, Customer Service, Ansible, Dart, Visual Identity, Linux, Animation",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Java, Spring Boot, MongoDB, JavaScript, HTML, CSS, Git, Docker",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Spring Boot, Dart, Visual Identity, PCB Design, Motion Graphics, Ansible, Linux",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Node.js, Vue.js, PostgreSQL, JavaScript, HTML, CSS, AWS, CI/CD, TypeScript",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Interior Design, PCB Design, Accounting, SEO, Game Design, C#, Angular, Kubernetes",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Express.js, React, MySQL, GraphQL, JavaScript, HTML, CSS, Git, Docker",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Accounting, Flutter, Java, Scrum, Dart, CRM, Interior Design, WordPress",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Angular, Python, Django, MongoDB, JavaScript, HTML, CSS, Jenkins, Azure",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Interior Design, SEO, Linux, CRM, PCB Design, Animation, DevOps, Customer Service",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Vue.js, Node.js, PostgreSQL, REST API, JavaScript, HTML, CSS, Git, AWS",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Visual Identity, Dart, Interior Design, React, SEO, Salesforce, CRM, Ansible",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Express.js, MongoDB, JavaScript, HTML, CSS, Docker, Kubernetes, TypeScript",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Hospitality, React, Java, WordPress, Animation, Salesforce, Tally, Motion Graphics",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Node.js, Vue.js, MySQL, GraphQL, JavaScript, HTML, CSS, Jenkins, Azure",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "SEO, React, Visual Identity, Accounting, Kubernetes, PCB Design, Android, Photoshop",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Angular, Python, Flask, PostgreSQL, JavaScript, HTML, CSS, Git, Docker",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Android, Spring Boot, Flutter, CRM, Visual Identity, Java, WordPress, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Java, Spring Boot, MongoDB, JavaScript, HTML, CSS, AWS, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Ansible, Dart, Tally, Angular, Android, Game Design, Linux, React, Customer Service",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Vue.js, Express.js, MySQL, REST API, JavaScript, HTML, CSS, Git, Docker",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Accounting, Scrum, CRM, Motion Graphics, SEO, React, Customer Service, Photoshop",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Node.js, React, PostgreSQL, JavaScript, HTML, CSS, Jenkins, Azure, TypeScript",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Motion Graphics, Salesforce, Java, Customer Service, Accounting, Photoshop, DevOps",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Angular, Python, Django, MongoDB, JavaScript, HTML, CSS, Git, AWS",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Networking, WordPress, Animation, Interior Design, SEO, Motion Graphics, Photoshop",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Express.js, MySQL, GraphQL, JavaScript, HTML, CSS, Docker, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Linux, CRM, Customer Service, Game Design, Java, SEO, Scrum, Spring Boot",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Vue.js, Node.js, PostgreSQL, REST API, JavaScript, HTML, CSS, Git, AWS",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Marketing, Linux, CRM, React, SEO, Motion Graphics, Flutter, Accounting",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Angular, Java, Spring Boot, MongoDB, JavaScript, HTML, CSS, Jenkins, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Scrum, Android, Visual Identity, Tally, Interior Design, Ansible, Angular, DevOps",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Python, Flask, MySQL, JavaScript, HTML, CSS, Git, Docker",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Game Design, Visual Identity, Arduino, C#, Tally, Flutter, Salesforce, Kubernetes",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Node.js, Vue.js, PostgreSQL, JavaScript, HTML, CSS, AWS, CI/CD, TypeScript",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "WordPress, Linux, Accounting, Photoshop, Scrum, Salesforce, Arduino, CRM",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Express.js, React, MongoDB, GraphQL, JavaScript, HTML, CSS, Git, Azure",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Hospitality, PCB Design, CRM, Interior Design, SEO, Accounting, Salesforce",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Angular, Python, Django, MySQL, JavaScript, HTML, CSS, Jenkins, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "WordPress, Marketing, Salesforce, Spring Boot, CRM, DevOps, Tally, PCB Design",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Vue.js, Node.js, MongoDB, REST API, JavaScript, HTML, CSS, Git, Docker",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "DevOps, Animation, Android, SEO, Visual Identity, Networking, Flutter, Interior Design",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Express.js, PostgreSQL, JavaScript, HTML, CSS, AWS, CI/CD, TypeScript",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Ansible, CRM, Motion Graphics, Kubernetes, Java, Spring Boot, C#, Animation",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Node.js, Vue.js, MySQL, GraphQL, JavaScript, HTML, CSS, Jenkins, Azure",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Linux, SEO, Dart, Tally, DevOps, Java, Flutter, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Angular, Python, Flask, MongoDB, JavaScript, HTML, CSS, Git, Docker",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Tally, PCB Design, DevOps, Linux, Game Design, C#, Photoshop, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Java, Spring Boot, PostgreSQL, JavaScript, HTML, CSS, AWS, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Ansible, Marketing, Dart, PCB Design, Game Design, Networking, Tally, Linux",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Vue.js, Express.js, MySQL, REST API, JavaScript, HTML, CSS, Git, Docker",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Salesforce, Marketing, Networking, Spring Boot, Scrum, C#, Tally, Flutter",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Node.js, React, MongoDB, JavaScript, HTML, CSS, Jenkins, Azure, TypeScript",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Flutter, Game Design, Motion Graphics, Angular, DevOps, Customer Service, C#",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Angular, Python, Django, PostgreSQL, JavaScript, HTML, CSS, Git, AWS",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Java, Ansible, Customer Service, C#, Photoshop, PCB Design, Networking, Angular",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Express.js, MySQL, GraphQL, JavaScript, HTML, CSS, Docker, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "WordPress, Java, Salesforce, Scrum, Customer Service, Linux, Game Design, Dart",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Vue.js, Node.js, MongoDB, REST API, JavaScript, HTML, CSS, Git, Azure",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Kubernetes, Game Design, Dart, Arduino, Customer Service, Interior Design, Android",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Java, Spring Boot, PostgreSQL, JavaScript, HTML, CSS, AWS, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Animation, SEO, Visual Identity, Kubernetes, Customer Service, Flutter",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Node.js, Vue.js, MySQL, JavaScript, HTML, CSS, Jenkins, Docker, TypeScript",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "CRM, Tally, Spring Boot, Scrum, Hospitality, Ansible, Angular, DevOps",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Angular, Express.js, MongoDB, GraphQL, JavaScript, HTML, CSS, Git, AWS",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Accounting, DevOps, Flutter, Photoshop, Linux, Customer Service, Spring Boot",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Vue.js, Python, Flask, PostgreSQL, JavaScript, HTML, CSS, Docker, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Ansible, Flutter, React, CRM, Spring Boot, Visual Identity, Scrum, Customer Service",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Node.js, MySQL, REST API, JavaScript, HTML, CSS, Git, Azure",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Animation, Interior Design, Scrum, Salesforce, PCB Design, DevOps, Visual Identity",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Express.js, Vue.js, MongoDB, JavaScript, HTML, CSS, Jenkins, AWS, TypeScript",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Animation, PCB Design, Scrum, Customer Service, React, Linux, C#, SEO",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Angular, Python, Django, PostgreSQL, JavaScript, HTML, CSS, Git, Docker",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "C#, Linux, SEO, Android, Arduino, WordPress, Animation, Game Design, Angular",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Java, Spring Boot, MySQL, JavaScript, HTML, CSS, AWS, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Marketing, C#, React, Arduino, Animation, Flutter, Dart, PCB Design, Motion Graphics",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Node.js, Vue.js, MongoDB, GraphQL, JavaScript, HTML, CSS, Git, Docker",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Flutter, DevOps, SEO, Hospitality, PCB Design, Angular, C#, Spring Boot, React",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Express.js, React, PostgreSQL, REST API, JavaScript, HTML, CSS, Jenkins, Azure",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Customer Service, Marketing, Android, DevOps, Animation, Networking, CRM, Accounting",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Vue.js, Python, Flask, MySQL, JavaScript, HTML, CSS, Git, AWS",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Salesforce, Game Design, Visual Identity, Hospitality, SEO, Java, Customer Service",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Angular, Node.js, MongoDB, JavaScript, HTML, CSS, Docker, Kubernetes, TypeScript",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Networking, Dart, Accounting, SEO, Salesforce, Customer Service, Hospitality, Ansible",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Express.js, PostgreSQL, GraphQL, JavaScript, HTML, CSS, Git, Azure",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "PCB Design, Accounting, Spring Boot, Dart, Marketing, Interior Design, Android",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Vue.js, Java, Spring Boot, MySQL, JavaScript, HTML, CSS, Jenkins, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "DevOps, Android, Kubernetes, Motion Graphics, Scrum, Game Design, SEO, Linux",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Node.js, React, MongoDB, REST API, JavaScript, HTML, CSS, Git, AWS",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Customer Service, Photoshop, Angular, Scrum, C#, Spring Boot, Tally, Salesforce",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Express.js, Vue.js, PostgreSQL, JavaScript, HTML, CSS, Docker, Kubernetes, TypeScript",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Tally, Dart, Flutter, Networking, Customer Service, Android, Angular, Visual Identity",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Angular, Python, Django, MySQL, JavaScript, HTML, CSS, Git, Azure",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Photoshop, Hospitality, CRM, Tally, Dart, Networking, Salesforce, Java, Android",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Java, Spring Boot, MongoDB, JavaScript, HTML, CSS, Jenkins, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Networking, Arduino, Android, Flutter, Hospitality, Game Design, Kubernetes",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Vue.js, Express.js, PostgreSQL, GraphQL, JavaScript, HTML, CSS, Git, AWS",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Dart, Hospitality, Game Design, Salesforce, SEO, PCB Design, Flutter, Customer Service",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Node.js, React, MySQL, REST API, JavaScript, HTML, CSS, Docker, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Accounting, Flutter, CRM, Customer Service, Hospitality, Interior Design, Kubernetes",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Angular, Python, Flask, MongoDB, JavaScript, HTML, CSS, Git, Azure",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Tally, Arduino, CRM, Scrum, Android, Salesforce, Java, C#, Dart",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Express.js, PostgreSQL, JavaScript, HTML, CSS, Jenkins, AWS, TypeScript",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Photoshop, Game Design, Networking, C#, Visual Identity, Tally, DevOps, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Vue.js, Java, Spring Boot, MySQL, JavaScript, HTML, CSS, Git, Docker",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "PCB Design, Flutter, Arduino, Linux, Motion Graphics, Kubernetes, Customer Service",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Node.js, React, MongoDB, GraphQL, JavaScript, HTML, CSS, AWS, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Android, Animation, PCB Design, CRM, Hospitality, Tally, Networking, C#",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Angular, Express.js, PostgreSQL, REST API, JavaScript, HTML, CSS, Jenkins, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "WordPress, SEO, Kubernetes, Java, Linux, Motion Graphics, Spring Boot, Angular",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Python, Django, MySQL, JavaScript, HTML, CSS, Git, AWS",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "WordPress, React, Networking, Game Design, Salesforce, Angular, Scrum, Interior Design",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Vue.js, Node.js, MongoDB, JavaScript, HTML, CSS, Docker, Kubernetes, TypeScript",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Dart, Customer Service, Animation, Arduino, C#, Android, Networking, Ansible",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Express.js, React, PostgreSQL, GraphQL, JavaScript, HTML, CSS, Git, Azure",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Animation, SEO, React, Dart, Android, Angular, PCB Design, Visual Identity",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Angular, Java, Spring Boot, MySQL, JavaScript, HTML, CSS, Jenkins, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Angular, Ansible, Motion Graphics, Dart, WordPress, React, C#, SEO, Networking",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Python, Flask, MongoDB, JavaScript, HTML, CSS, Git, AWS",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Flutter, DevOps, Kubernetes, Networking, Visual Identity, Hospitality, Animation",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Vue.js, Express.js, PostgreSQL, JavaScript, HTML, CSS, Docker, Kubernetes, TypeScript",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Networking, Animation, Dart, Visual Identity, Game Design, SEO, Java, WordPress",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Node.js, React, MySQL, GraphQL, JavaScript, HTML, CSS, Git, Azure",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Motion Graphics, Dart, DevOps, Game Design, Spring Boot, Animation, SEO, CRM",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Angular, Python, Django, MongoDB, JavaScript, HTML, CSS, Jenkins, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Spring Boot, Kubernetes, React, Java, Marketing, Photoshop, CRM, Ansible",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Express.js, PostgreSQL, REST API, JavaScript, HTML, CSS, Git, AWS",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Customer Service, Flutter, WordPress, Networking, Tally, Android, SEO, Interior Design",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Vue.js, Java, Spring Boot, MySQL, JavaScript, HTML, CSS, Docker, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "DevOps, Android, Tally, CRM, Customer Service, PCB Design, Flutter, Visual Identity",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Node.js, React, MongoDB, JavaScript, HTML, CSS, Git, Azure, TypeScript",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Kubernetes, PCB Design, Linux, Spring Boot, Ansible, Game Design, Visual Identity",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Angular, Express.js, PostgreSQL, GraphQL, JavaScript, HTML, CSS, Jenkins, AWS",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Arduino, PCB Design, Interior Design, Motion Graphics, Linux, Flutter, React, Kubernetes",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Python, Django, MySQL, JavaScript, HTML, CSS, Git, Docker",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Marketing, Tally, React, Spring Boot, Game Design, Angular, PCB Design, Animation",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Vue.js, Node.js, MongoDB, REST API, JavaScript, HTML, CSS, AWS, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Motion Graphics, PCB Design, Customer Service, Angular, Flutter, Marketing, Arduino",
+    "label": 0
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "Angular, Express.js, PostgreSQL, JavaScript, HTML, CSS, Git, Docker, TypeScript",
+    "label": 1
+  },
+  {
+    "goal": "Full Stack Developer",
+    "resume_text": "React, Marketing, WordPress, DevOps, Game Design, Interior Design, Customer Service",
+    "label": 0
+  }
+]

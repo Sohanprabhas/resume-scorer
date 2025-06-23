@@ -1,0 +1,1092 @@
+[
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Docker, Kubernetes, AWS, Jenkins, Terraform, Ansible, Git, Bash, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Photoshop, Marketing, SEO, Visual Identity, CRM, Salesforce, WordPress",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Azure, Helm, GitLab CI, Python, Linux, Nginx, Prometheus, Grafana, IaC",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Animation, Game Design, Arduino, Interior Design, Motion Graphics, Photoshop",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "GCP, Kubernetes, Terraform, Jenkins, Bash, Docker, CI/CD, Vault, Ansible",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Hospitality, Accounting, Tally, CRM, Dart, Flutter, Visual Identity",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "AWS, Docker, Kubernetes, Git, Terraform, Python, Jenkins, ELK Stack, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Customer Service, Visual Identity, Motion Graphics, WordPress, Scrum, Salesforce",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Azure, Ansible, Helm, GitLab, Bash, Docker, Kubernetes, Prometheus, Grafana",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "SEO, Marketing, C#, Accounting, Networking, Visual Identity, Interior Design",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "GCP, Terraform, Jenkins, Docker, Kubernetes, Python, Git, CI/CD, Nginx",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Flutter, SEO, Game Design, Hospitality, Marketing, Linux, Photoshop, Dart",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "AWS, Kubernetes, Docker, Jenkins, Ansible, Bash, Git, Prometheus, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Animation, Salesforce, Accounting, Visual Identity, Arduino, Motion Graphics",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Azure, Terraform, GitLab CI, Python, Docker, Kubernetes, Grafana, Helm, IaC",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "CRM, Dart, Flutter, Networking, Accounting, Arduino, Photoshop",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "GCP, Jenkins, Ansible, Docker, Kubernetes, Bash, Git, CI/CD, Vault",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Scrum, Animation, Linux, Android, SEO, Tally, Dart, Visual Identity",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "AWS, Docker, Kubernetes, Terraform, Python, Jenkins, Git, Prometheus, Grafana",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Customer Service, PCB Design, CRM, Linux, Interior Design, Motion Graphics",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Azure, Helm, GitLab CI, Ansible, Docker, Kubernetes, Bash, CI/CD, Nginx",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Flutter, Android, Accounting, Hospitality, Linux, Visual Identity, Photoshop",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "GCP, Terraform, Jenkins, Docker, Kubernetes, Python, Git, CI/CD, ELK Stack",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Visual Identity, Tally, C#, Game Design, Android, Motion Graphics, SEO",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "AWS, Kubernetes, Docker, Ansible, Bash, Jenkins, Git, Prometheus, Grafana",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Customer Service, Scrum, Game Design, Accounting, Motion Graphics, Salesforce",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Azure, Terraform, GitLab CI, Python, Docker, Kubernetes, CI/CD, Helm, Nginx",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Arduino, WordPress, Salesforce, Scrum, PCB Design, SEO, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "GCP, Jenkins, Ansible, Docker, Kubernetes, Bash, Git, Prometheus, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "C#, Animation, Accounting, Tally, PCB Design, Marketing, Photoshop",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "AWS, Docker, Kubernetes, Terraform, Python, Jenkins, Git, ELK Stack, IaC",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Linux, Arduino, Salesforce, C#, Scrum, CRM, Tally, Networking",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Azure, Helm, GitLab CI, Ansible, Docker, Kubernetes, Bash, CI/CD, Grafana",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Game Design, Visual Identity, Dart, CRM, Photoshop, Interior Design",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "GCP, Terraform, Jenkins, Docker, Kubernetes, Python, Git, CI/CD, Nginx",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Salesforce, Interior Design, CRM, Ansible, WordPress, Marketing, SEO",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "AWS, Docker, Kubernetes, Jenkins, Terraform, Bash, Git, Prometheus, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "CRM, WordPress, Accounting, Photoshop, Linux, Motion Graphics, Hospitality",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Azure, Ansible, Helm, GitLab CI, Docker, Kubernetes, Python, CI/CD, Grafana",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Scrum, Interior Design, Arduino, Photoshop, Accounting, Marketing, Visual Identity",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "GCP, Terraform, Jenkins, Docker, Kubernetes, Bash, Git, ELK Stack, IaC",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Dart, SEO, Linux, Arduino, Flutter, Accounting, Tally, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "AWS, Docker, Kubernetes, Ansible, Python, Jenkins, Git, Prometheus, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Dart, Networking, Accounting, PCB Design, Tally, Salesforce, Visual Identity",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Azure, Terraform, GitLab CI, Docker, Kubernetes, Bash, CI/CD, Grafana, Helm",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Marketing, Photoshop, Hospitality, WordPress, Android, SEO, CRM",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "GCP, Jenkins, Ansible, Docker, Kubernetes, Python, Git, CI/CD, Nginx",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "SEO, WordPress, Animation, Photoshop, Scrum, Accounting, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "AWS, Docker, Kubernetes, Terraform, Bash, Jenkins, Git, Prometheus, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Flutter, Motion Graphics, Photoshop, Hospitality, Interior Design, Visual Identity, Dart",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Azure, Helm, GitLab CI, Ansible, Docker, Kubernetes, Python, CI/CD, Grafana",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Interior Design, Animation, Motion Graphics, Arduino, Customer Service, Salesforce",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "GCP, Terraform, Jenkins, Docker, Kubernetes, Bash, Git, ELK Stack, IaC",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Salesforce, Linux, Motion Graphics, Networking, Visual Identity, Scrum, SEO",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "AWS, Docker, Kubernetes, Ansible, Python, Jenkins, Git, Prometheus, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Visual Identity, Photoshop, Ansible, Motion Graphics, Marketing, PCB Design",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Azure, Terraform, GitLab CI, Docker, Kubernetes, Bash, CI/CD, Grafana, Helm",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Scrum, WordPress, Interior Design, Flutter, SEO, Marketing, C#",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "GCP, Jenkins, Ansible, Docker, Kubernetes, Python, Git, CI/CD, Nginx",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Accounting, Interior Design, PCB Design, Scrum, Salesforce, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "AWS, Docker, Kubernetes, Terraform, Bash, Jenkins, Git, Prometheus, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Photoshop, Networking, Interior Design, Accounting, Customer Service, Animation",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Azure, Helm, GitLab CI, Ansible, Docker, Kubernetes, Python, CI/CD, Grafana",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Flutter, Salesforce, Interior Design, Game Design, Motion Graphics, CRM",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "GCP, Terraform, Jenkins, Docker, Kubernetes, Bash, Git, ELK Stack, IaC",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Accounting, Hospitality, Salesforce, Customer Service, Motion Graphics, SEO",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "AWS, Docker, Kubernetes, Ansible, Python, Jenkins, Git, Prometheus, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "CRM, Scrum, Marketing, SEO, Interior Design, Motion Graphics, Visual Identity",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Azure, Terraform, GitLab CI, Docker, Kubernetes, Bash, CI/CD, Grafana, Helm",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "SEO, Visual Identity, Animation, Dart, Marketing, Motion Graphics, Photoshop",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "GCP, Jenkins, Ansible, Docker, Kubernetes, Python, Git, CI/CD, Nginx",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Dart, Customer Service, Accounting, Animation, CRM, Salesforce, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "AWS, Docker, Kubernetes, Terraform, Bash, Jenkins, Git, Prometheus, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Interior Design, Android, Arduino, Linux, Visual Identity, WordPress, SEO",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Azure, Helm, GitLab CI, Ansible, Docker, Kubernetes, Python, CI/CD, Grafana",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Dart, Arduino, Marketing, Interior Design, Salesforce, Visual Identity, CRM",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "GCP, Terraform, Jenkins, Docker, Kubernetes, Bash, Git, ELK Stack, IaC",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "WordPress, Interior Design, Photoshop, Visual Identity, PCB Design, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "AWS, Docker, Kubernetes, Ansible, Python, Jenkins, Git, Prometheus, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Hospitality, WordPress, Networking, Android, Marketing, SEO, CRM",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Azure, Terraform, GitLab CI, Docker, Kubernetes, Bash, CI/CD, Grafana, Helm",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "CRM, SEO, Photoshop, Tally, PCB Design, Arduino, Salesforce",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "GCP, Jenkins, Ansible, Docker, Kubernetes, Python, Git, CI/CD, Nginx",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Marketing, Networking, Photoshop, Android, C#, Hospitality, Interior Design",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "AWS, Docker, Kubernetes, Terraform, Bash, Jenkins, Git, Prometheus, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Hospitality, Arduino, Interior Design, Marketing, WordPress, SEO, CRM",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Azure, Helm, GitLab CI, Ansible, Docker, Kubernetes, Python, CI/CD, Grafana",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "C#, Networking, PCB Design, SEO, Dart, CRM, Hospitality, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "GCP, Terraform, Jenkins, Docker, Kubernetes, Bash, Git, ELK Stack, IaC",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "CRM, Motion Graphics, Game Design, PCB Design, Interior Design, Linux",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "AWS, Docker, Kubernetes, Ansible, Python, Jenkins, Git, Prometheus, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Ansible, Kubernetes, Dart, Salesforce, SEO, Animation, Marketing, CRM",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Azure, Terraform, GitLab CI, Docker, Kubernetes, Bash, CI/CD, Grafana, Helm",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Tally, Linux, Motion Graphics, Dart, Photoshop, SEO, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "GCP, Jenkins, Ansible, Docker, Kubernetes, Python, Git, CI/CD, Nginx",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Accounting, Arduino, CRM, Visual Identity, Networking, Marketing, SEO",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "AWS, Docker, Kubernetes, Terraform, Bash, Jenkins, Git, Prometheus, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Arduino, Hospitality, PCB Design, Networking, Photoshop, Marketing, CRM",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Azure, Helm, GitLab CI, Ansible, Docker, Kubernetes, Python, CI/CD, Grafana",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Interior Design, Flutter, Marketing, Dart, C#, Photoshop, SEO",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "GCP, Terraform, Jenkins, Docker, Kubernetes, Bash, Git, ELK Stack, IaC",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Arduino, Linux, WordPress, Scrum, Visual Identity, Networking, C#",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "AWS, Docker, Kubernetes, Ansible, Python, Jenkins, Git, Prometheus, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Android, Photoshop, Game Design, Networking, Customer Service, WordPress",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Azure, Terraform, GitLab CI, Docker, Kubernetes, Bash, CI/CD, Grafana, Helm",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Tally, Motion Graphics, Flutter, C#, Networking, Animation, Dart",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "GCP, Jenkins, Ansible, Docker, Kubernetes, Python, Git, CI/CD, Nginx",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Linux, Hospitality, C#, Visual Identity, Salesforce, Dart, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "AWS, Docker, Kubernetes, Terraform, Bash, Jenkins, Git, Prometheus, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Visual Identity, Game Design, Android, WordPress, Customer Service, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Azure, Helm, GitLab CI, Ansible, Docker, Kubernetes, Python, CI/CD, Grafana",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Scrum, Visual Identity, Photoshop, PCB Design, Linux, SEO, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "GCP, Terraform, Jenkins, Docker, Kubernetes, Bash, Git, ELK Stack, IaC",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Tally, C#, Networking, Photoshop, Customer Service, Animation, Accounting",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "AWS, Docker, Kubernetes, Ansible, Python, Jenkins, Git, Prometheus, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Linux, PCB Design, Tally, SEO, Animation, Marketing, Salesforce",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Azure, Terraform, GitLab CI, Docker, Kubernetes, Bash, CI/CD, Grafana, Helm",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Salesforce, PCB Design, Linux, Customer Service, DevOps, Scrum, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "GCP, Jenkins, Ansible, Docker, Kubernetes, Python, Git, CI/CD, Nginx",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Kubernetes, Android, Salesforce, C#, Hospitality, PCB Design, SEO",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "AWS, Docker, Kubernetes, Terraform, Bash, Jenkins, Git, Prometheus, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Dart, CRM, Animation, SEO, WordPress, Scrum, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Azure, Helm, GitLab CI, Ansible, Docker, Kubernetes, Python, CI/CD, Grafana",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Interior Design, Android, Arduino, Linux, Visual Identity, WordPress, SEO",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "GCP, Terraform, Jenkins, Docker, Kubernetes, Bash, Git, ELK Stack, IaC",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Dart, Arduino, Marketing, Interior Design, Salesforce, Visual Identity, CRM",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "AWS, Docker, Kubernetes, Ansible, Python, Jenkins, Git, Prometheus, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Accounting, Tally, SEO, Salesforce, Hospitality, PCB Design, Visual Identity",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Azure, Terraform, GitLab CI, Docker, Kubernetes, Bash, CI/CD, Grafana, Helm",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Arduino, Spring Boot, CRM, Game Design, Linux, Motion Graphics, Animation",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "GCP, Jenkins, Ansible, Docker, Kubernetes, Python, Git, CI/CD, Nginx",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Photoshop, Customer Service, Dart, Visual Identity, Linux, Animation, SEO",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "AWS, Docker, Kubernetes, Terraform, Bash, Jenkins, Git, Prometheus, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Dart, Visual Identity, PCB Design, Motion Graphics, Linux, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Azure, Helm, GitLab CI, Ansible, Docker, Kubernetes, Python, CI/CD, Grafana",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Interior Design, PCB Design, Accounting, SEO, Game Design, C#, Kubernetes",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "GCP, Terraform, Jenkins, Docker, Kubernetes, Bash, Git, ELK Stack, IaC",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Accounting, Flutter, Scrum, Dart, CRM, Interior Design, WordPress",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "AWS, Docker, Kubernetes, Ansible, Python, Jenkins, Git, Prometheus, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Interior Design, SEO, Linux, CRM, PCB Design, Animation, Customer Service",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Azure, Terraform, GitLab CI, Docker, Kubernetes, Bash, CI/CD, Grafana, Helm",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Visual Identity, Dart, Interior Design, SEO, Salesforce, CRM, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "GCP, Jenkins, Ansible, Docker, Kubernetes, Python, Git, CI/CD, Nginx",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Hospitality, WordPress, Animation, Salesforce, Tally, Motion Graphics, CRM",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "AWS, Docker, Kubernetes, Terraform, Bash, Jenkins, Git, Prometheus, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "SEO, Visual Identity, Accounting, PCB Design, Android, Photoshop, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Azure, Helm, GitLab CI, Ansible, Docker, Kubernetes, Python, CI/CD, Grafana",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Android, Flutter, CRM, Visual Identity, WordPress, Marketing, SEO",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "GCP, Terraform, Jenkins, Docker, Kubernetes, Bash, Git, ELK Stack, IaC",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Ansible, Dart, Tally, Android, Game Design, Linux, Customer Service",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "AWS, Docker, Kubernetes, Ansible, Python, Jenkins, Git, Prometheus, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Accounting, Scrum, CRM, Motion Graphics, SEO, Customer Service, Photoshop",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Azure, Terraform, GitLab CI, Docker, Kubernetes, Bash, CI/CD, Grafana, Helm",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Motion Graphics, Salesforce, Customer Service, Accounting, Photoshop, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "GCP, Jenkins, Ansible, Docker, Kubernetes, Python, Git, CI/CD, Nginx",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Networking, WordPress, Animation, Interior Design, SEO, Motion Graphics",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "AWS, Docker, Kubernetes, Terraform, Bash, Jenkins, Git, Prometheus, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Linux, CRM, Customer Service, Game Design, SEO, Scrum, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Azure, Helm, GitLab CI, Ansible, Docker, Kubernetes, Python, CI/CD, Grafana",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Marketing, Linux, CRM, SEO, Motion Graphics, Flutter, Accounting",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "GCP, Terraform, Jenkins, Docker, Kubernetes, Bash, Git, ELK Stack, IaC",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Scrum, Android, Visual Identity, Tally, Interior Design, Ansible, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "AWS, Docker, Kubernetes, Ansible, Python, Jenkins, Git, Prometheus, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Game Design, Visual Identity, Arduino, C#, Tally, Flutter, Salesforce",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Azure, Terraform, GitLab CI, Docker, Kubernetes, Bash, CI/CD, Grafana, Helm",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "WordPress, Linux, Accounting, Photoshop, Scrum, Salesforce, Arduino",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "GCP, Jenkins, Ansible, Docker, Kubernetes, Python, Git, CI/CD, Nginx",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Hospitality, PCB Design, CRM, Interior Design, SEO, Accounting",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "AWS, Docker, Kubernetes, Terraform, Bash, Jenkins, Git, Prometheus, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "WordPress, Marketing, Salesforce, CRM, Tally, PCB Design, SEO",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Azure, Helm, GitLab CI, Ansible, Docker, Kubernetes, Python, CI/CD, Grafana",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Android, SEO, Visual Identity, Networking, Flutter, Interior Design, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "GCP, Terraform, Jenkins, Docker, Kubernetes, Bash, Git, ELK Stack, IaC",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Motion Graphics, Kubernetes, Spring Boot, C#, Animation, CRM, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "AWS, Docker, Kubernetes, Ansible, Python, Jenkins, Git, Prometheus, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Linux, SEO, Dart, Tally, Flutter, Marketing, CRM",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Azure, Terraform, GitLab CI, Docker, Kubernetes, Bash, CI/CD, Grafana, Helm",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Tally, PCB Design, Linux, Game Design, C#, Photoshop, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "GCP, Jenkins, Ansible, Docker, Kubernetes, Python, Git, CI/CD, Nginx",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Ansible, Marketing, Dart, PCB Design, Game Design, Networking, Tally",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "AWS, Docker, Kubernetes, Terraform, Bash, Jenkins, Git, Prometheus, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Salesforce, Marketing, Networking, Scrum, C#, Tally, Flutter",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Azure, Helm, GitLab CI, Ansible, Docker, Kubernetes, Python, CI/CD, Grafana",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Flutter, Game Design, Motion Graphics, Customer Service, C#, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "GCP, Terraform, Jenkins, Docker, Kubernetes, Bash, Git, ELK Stack, IaC",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Ansible, Customer Service, C#, Photoshop, PCB Design, Networking, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "AWS, Docker, Kubernetes, Ansible, Python, Jenkins, Git, Prometheus, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "WordPress, Scrum, Customer Service, Linux, Game Design, Dart, SEO",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Azure, Terraform, GitLab CI, Docker, Kubernetes, Bash, CI/CD, Grafana, Helm",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Kubernetes, Game Design, Dart, Arduino, Customer Service, Interior Design",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "GCP, Jenkins, Ansible, Docker, Kubernetes, Python, Git, CI/CD, Nginx",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "SEO, Visual Identity, Kubernetes, Customer Service, Flutter, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "AWS, Docker, Kubernetes, Terraform, Bash, Jenkins, Git, Prometheus, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "CRM, Tally, Scrum, Hospitality, Ansible, Marketing, Visual Identity",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Azure, Helm, GitLab CI, Ansible, Docker, Kubernetes, Python, CI/CD, Grafana",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Accounting, Flutter, Photoshop, Linux, Customer Service, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "GCP, Terraform, Jenkins, Docker, Kubernetes, Bash, Git, ELK Stack, IaC",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "CRM, Visual Identity, Scrum, Customer Service, Marketing, SEO",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "AWS, Docker, Kubernetes, Ansible, Python, Jenkins, Git, Prometheus, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Animation, SEO, Dart, Android, PCB Design, Visual Identity, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Azure, Terraform, GitLab CI, Docker, Kubernetes, Bash, CI/CD, Grafana, Helm",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Ansible, Motion Graphics, Dart, WordPress, C#, SEO, Networking",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "GCP, Jenkins, Ansible, Docker, Kubernetes, Python, Git, CI/CD, Nginx",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Kubernetes, Marketing, Photoshop, CRM, Ansible, SEO",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "AWS, Docker, Kubernetes, Terraform, Bash, Jenkins, Git, Prometheus, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Customer Service, Flutter, WordPress, Networking, Tally, Android, SEO",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Azure, Helm, GitLab CI, Ansible, Docker, Kubernetes, Python, CI/CD, Grafana",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Android, Tally, CRM, Customer Service, PCB Design, Flutter, Visual Identity",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "GCP, Terraform, Jenkins, Docker, Kubernetes, Bash, Git, ELK Stack, IaC",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Kubernetes, PCB Design, Linux, Game Design, Visual Identity, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "AWS, Docker, Kubernetes, Ansible, Python, Jenkins, Git, Prometheus, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Arduino, PCB Design, Interior Design, Motion Graphics, Linux, Flutter, Kubernetes",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Azure, Terraform, GitLab CI, Docker, Kubernetes, Bash, CI/CD, Grafana, Helm",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Marketing, Tally, Game Design, PCB Design, Animation, SEO",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "GCP, Jenkins, Ansible, Docker, Kubernetes, Python, Git, CI/CD, Nginx",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Motion Graphics, PCB Design, Customer Service, Flutter, Marketing, Arduino",
+    "label": 0
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "AWS, Docker, Kubernetes, Terraform, Bash, Jenkins, Git, Prometheus, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "DevOps Engineer",
+    "resume_text": "Marketing, WordPress, Game Design, Interior Design, Customer Service, SEO",
+    "label": 0
+  }
+]

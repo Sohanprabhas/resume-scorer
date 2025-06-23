@@ -1,0 +1,80 @@
+{
+    "version": "1.0.0",
+    "minimum_score_to_pass": 0.65,
+    "log_score_details": true,
+ "model_goals_supported": [
+  "Adobe Sde",
+  "Aiml Research Intern",
+  "Ai Researcher",
+  "Amazon Sde",
+  "Apple Sde",
+  "Applied Scientist",
+  "Backend Developer",
+  "Backend Engineer",
+  "Cloud Engineer",
+  "Data Engineer",
+  "Data Scientist",
+  "Devops Engineer",
+  "Flipkart Sde",
+  "Frontend Developer",
+  "Frontend Engineer",
+  "Full Stack Developer",
+  "Game Developer",
+  "Gate Ece",
+  "Google Sde",
+  "Linkedin Sde",
+  "Machineleraning Engineer",
+  "Meta Sde",
+  "Microsoft Sde",
+  "Ml Internship",
+  "Mobile Developer",
+  "Netflix Sde",
+  "Platform Engineer",
+  "Product Manager",
+  "Salesforce Sde",
+  "Security Engineer",
+  "Software Engineer",
+  "Ste Reliability Engineer",
+  "Tesla Sde",
+  "Twitter Sde",
+  "Uber Sde",
+  "Uiux Designer",
+  "Zomato Sde"
+],
+
+    "default_goal_model": "Amazon Sde",
+    "skill_matching": {
+      "case_sensitive": false,
+      "exact_match_only": true,
+      "partial_match_threshold": 0.8
+    },
+    "performance": {
+      "max_response_time_ms": 1500,
+      "max_memory_usage_mb": 256
+    },
+    "logging": {
+      "level": "INFO",
+      "file_rotation": true,
+      "max_log_files": 5,
+      "max_log_file_size_mb": 10
+    },
+    "api": {
+      "port": 8000,
+      "host": "0.0.0.0",
+      "workers": 4,
+      "timeout_seconds": 30,
+      "rate_limit": {
+        "requests_per_minute": 60,
+        "enabled": false
+      }
+    },
+    "analytics": {
+      "collect_usage_metrics": true,
+      "anonymize_student_data": true,
+      "store_request_history": false
+    },
+    "notification": {
+      "alert_on_error": true,
+      "alert_threshold_score": 0.3
+    }
+  }

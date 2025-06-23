@@ -1,0 +1,2502 @@
+[
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Salesforce, Linux, Game Design, Visual Identity, Marketing, Angular, SEO, WordPress",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "AWS, MLFlow, NumPy, Statistics, Matplotlib, Power BI, Regression, A/B Testing",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Ansible, Animation, Accounting, Motion Graphics, Spring Boot, PCB Design, React, Flutter, Game Design",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Flutter, SEO, Motion Graphics, Game Design, Hospitality, DevOps, Marketing, Linux, Kubernetes, Accounting",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Hospitality, CRM, Spring Boot, Dart, Flutter, Networking, Accounting, Arduino, Visual Identity, Photoshop",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "MLOps, Data Analysis, TensorFlow, Bayesian Inference, DVC, AWS, Matplotlib, SQL",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "CRM, Dart, Animation, Salesforce, Angular, Accounting, Spring Boot, Visual Identity, Flutter",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Customer Service, PCB Design, CRM, Linux, Visual Identity, Angular, Interior Design, Motion Graphics, WordPress",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Accounting, Networking, Linux, Visual Identity, Angular, Motion Graphics, Salesforce, C#, SEO, Interior Design",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Regression, EDA, NLP, Data Wrangling, Scikit-learn, MLOps, DVC, Feature Engineering",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "TensorFlow, MLOps, MLFlow, Keras, Clustering, NLP, Regression, Jupyter Notebook",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "PyTorch, Regression, Feature Engineering, Scikit-learn, AWS, TensorFlow, Matplotlib, Python",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Angular, DevOps, Scrum, Animation, Linux, Android, SEO, Tally, Dart",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Python, Power BI, Azure, NumPy, Feature Engineering, Data Visualization, Data Analysis, A/B Testing, Google Cloud, SQL",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Classification, Bayesian Inference, Keras, Model Deployment, Tableau, NumPy, Scikit-learn, Data Visualization, DVC, PyTorch",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "SQL, Model Evaluation, Scikit-learn, Feature Engineering, AWS, Pandas, Azure, PyTorch, Classification, Keras",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Flutter, Ansible, Android, Accounting, Kubernetes, Hospitality, Linux, DevOps, Networking, Salesforce",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Visual Identity, Tally, C#, Angular, Spring Boot, Game Design, Android, Networking",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Customer Service, Scrum, Game Design, Accounting, Motion Graphics, Spring Boot, Linux, Salesforce, Ansible",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Arduino, WordPress, Salesforce, Kubernetes, Scrum, PCB Design, SEO, Android, CRM",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Jupyter Notebook, Data Analysis, A/B Testing, BigQuery, Machine Learning, Clustering, Data Wrangling, Regression",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Machine Learning, Classification, Feature Engineering, Regression, Model Evaluation, Scikit-learn, MLOps, AWS, Keras",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "C#, Animation, Java, Accounting, Tally, PCB Design, Marketing, Photoshop, Salesforce, Networking",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Azure, Jupyter Notebook, EDA, Pandas, Clustering, Deep Learning, Model Deployment, Regression, Bayesian Inference",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Linux, Arduino, Salesforce, C#, Scrum, CRM, Tally, Ansible, DevOps, Spring Boot",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Deep Learning, Regression, Model Evaluation, Feature Engineering, Matplotlib, Python, Jupyter Notebook, BigQuery, AWS, Statistics",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Game Design, Visual Identity, Java, Dart, CRM, Photoshop, Interior Design, Linux, Customer Service, SEO",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Salesforce, Interior Design, CRM, Java, Ansible, Spring Boot, WordPress, PCB Design",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Matplotlib, Classification, BigQuery, MLFlow, Data Wrangling, Data Visualization, Scikit-learn, Python",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "CRM, WordPress, Accounting, DevOps, Photoshop, Linux, Kubernetes, Motion Graphics, Android",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Scrum, Interior Design, DevOps, Angular, Arduino, Photoshop, Accounting, Linux, Hospitality",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Matplotlib, NLP, Pandas, MLFlow, Regression, Jupyter Notebook, AWS, DVC, TensorFlow, Model Evaluation",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Regression, TensorFlow, Power BI, Statistics, Jupyter Notebook, Feature Engineering, Data Wrangling, Tableau, EDA, Clustering",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "NumPy, Clustering, Model Evaluation, Bayesian Inference, Deep Learning, TensorFlow, Regression, Data Wrangling, Pandas",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "MLOps, Clustering, Data Visualization, Azure, Google Cloud, Keras, Bayesian Inference, Matplotlib, A/B Testing",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "NumPy, Keras, DVC, EDA, TensorFlow, SQL, Data Visualization, Statistics",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Dart, SEO, Linux, Arduino, Flutter, Accounting, Tally, Marketing, DevOps, Networking",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Machine Learning, Scikit-learn, NLP, PyTorch, AWS, Regression, Data Wrangling, DVC",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Dart, Networking, Accounting, Ansible, React, PCB Design, Angular, Tally, Arduino",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Scikit-learn, MLOps, Matplotlib, Python, Keras, Data Visualization, SQL, NumPy",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "NLP, Bayesian Inference, Machine Learning, Google Cloud, Statistics, Scikit-learn, Matplotlib, MLOps, Model Evaluation",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Dart, Accounting, SEO, CRM, Animation, PCB Design, Salesforce, Scrum",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Marketing, Photoshop, DevOps, Angular, Hospitality, WordPress, Android, React, CRM, Java",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "DevOps, SEO, React, WordPress, Animation, Photoshop, Scrum, Accounting, Linux",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "NumPy, Model Deployment, Regression, Statistics, A/B Testing, Data Visualization, TensorFlow, Scikit-learn, MLFlow",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Flutter, Motion Graphics, Photoshop, Hospitality, Interior Design, Visual Identity, Dart, React",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Interior Design, Animation, Motion Graphics, Arduino, Customer Service, Spring Boot, Java, Kubernetes, Visual Identity",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Classification, Model Deployment, Statistics, Regression, SQL, NLP, Tableau, AWS",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Power BI, Azure, Keras, Feature Engineering, Clustering, Jupyter Notebook, Scikit-learn, Data Analysis, Machine Learning",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Salesforce, Ansible, Linux, Motion Graphics, Networking, Visual Identity, Scrum, Hospitality, CRM",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Visual Identity, Photoshop, Spring Boot, Ansible, Motion Graphics, Marketing, PCB Design, CRM, Linux",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "SQL, AWS, Classification, Statistics, Model Deployment, Keras, PyTorch, NumPy",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Scrum, WordPress, Interior Design, Flutter, Spring Boot, SEO, Marketing, C#",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Accounting, Interior Design, React, DevOps, PCB Design, Scrum, Spring Boot, SEO",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "TensorFlow, Power BI, Data Visualization, Bayesian Inference, Regression, Matplotlib, Tableau, Machine Learning, Deep Learning",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Photoshop, React, Networking, Interior Design, Accounting, Customer Service, Animation, Salesforce",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Kubernetes, Flutter, Salesforce, Interior Design, Ansible, Game Design, Spring Boot, Animation",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "EDA, AWS, Clustering, A/B Testing, MLFlow, Deep Learning, Python, Keras, Power BI",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "A/B Testing, MLFlow, AWS, Model Deployment, NLP, Jupyter Notebook, Tableau, Data Analysis, PyTorch, Model Evaluation",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Accounting, DevOps, Hospitality, Salesforce, React, Customer Service, Motion Graphics, Java, Networking, Flutter",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "CRM, Angular, DevOps, Scrum, Marketing, SEO, Interior Design, Java, Motion Graphics, Kubernetes",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "SEO, Kubernetes, Visual Identity, Animation, Dart, Marketing, Motion Graphics, React",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "React, Java, Dart, Customer Service, Angular, Accounting, Animation, CRM, Arduino",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "EDA, Pandas, Bayesian Inference, Regression, BigQuery, TensorFlow, Classification, A/B Testing, MLFlow, AWS",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "NumPy, Matplotlib, Statistics, Jupyter Notebook, Machine Learning, TensorFlow, DVC, AWS, Data Visualization",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Data Visualization, BigQuery, Keras, Regression, NumPy, Data Wrangling, NLP, Classification, Deep Learning, Azure",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Hospitality, Ansible, DevOps, WordPress, Networking, Android, Marketing, Animation",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Power BI, Data Visualization, Machine Learning, Model Deployment, A/B Testing, Matplotlib, Classification, Bayesian Inference, Clustering, Tableau",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "CRM, SEO, Photoshop, Tally, Angular, React, PCB Design, Arduino, Visual Identity",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Google Cloud, MLFlow, NLP, Regression, Machine Learning, Keras, Statistics, Scikit-learn",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Marketing, Networking, Photoshop, Android, C#, Hospitality, Interior Design, WordPress, Accounting, Spring Boot",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Hospitality, Arduino, Spring Boot, Interior Design, React, Marketing, WordPress, Animation",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "C#, Networking, PCB Design, SEO, Dart, CRM, React, Hospitality, Visual Identity",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Google Cloud, NLP, Data Analysis, Tableau, EDA, Keras, SQL, Bayesian Inference, Python, Data Visualization",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "CRM, Motion Graphics, Game Design, PCB Design, DevOps, Interior Design, Linux, Kubernetes",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Model Deployment, Machine Learning, Tableau, Model Evaluation, MLFlow, Bayesian Inference, A/B Testing, DVC",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "NLP, Model Deployment, EDA, Power BI, Data Analysis, AWS, Clustering, Keras",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Java, Ansible, Kubernetes, Dart, Salesforce, DevOps, SEO, Animation",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "MLFlow, NLP, SQL, Statistics, TensorFlow, Matplotlib, Model Evaluation, Machine Learning, AWS, Deep Learning",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "DVC, PyTorch, Clustering, MLFlow, Python, Power BI, Machine Learning, Tableau, Matplotlib, Google Cloud",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Pandas, MLFlow, Python, Classification, Tableau, EDA, Matplotlib, Data Wrangling, NLP",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "NLP, Regression, SQL, Machine Learning, EDA, Data Analysis, Data Wrangling, Jupyter Notebook, Classification",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Jupyter Notebook, Regression, Model Evaluation, NumPy, Model Deployment, Deep Learning, Data Analysis, TensorFlow, Classification, Clustering",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "C#, Marketing, Linux, React, Arduino, Game Design, Scrum, Accounting, WordPress",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Pandas, SQL, BigQuery, Deep Learning, Google Cloud, Classification, Azure, Model Evaluation, Regression, NLP",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Scrum, Kubernetes, Animation, Angular, Game Design, Java, CRM, React",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Kubernetes, Spring Boot, Android, Salesforce, C#, Hospitality, PCB Design, SEO, Java, Customer Service",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Java, Dart, React, CRM, Animation, SEO, WordPress, Scrum",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Interior Design, Android, Arduino, Java, Linux, Visual Identity, WordPress, CRM",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Dart, Arduino, Marketing, Interior Design, Salesforce, Visual Identity, Angular, Tally, DevOps, Spring Boot",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Bayesian Inference, Google Cloud, SQL, Model Deployment, Machine Learning, Data Analysis, Pandas, Statistics",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "WordPress, Interior Design, Photoshop, Visual Identity, Angular, PCB Design, Kubernetes, Ansible, Hospitality, Scrum",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Regression, Classification, EDA, Bayesian Inference, Tableau, Python, Deep Learning, A/B Testing",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Data Visualization, AWS, Model Evaluation, EDA, MLOps, Deep Learning, Machine Learning, A/B Testing, NLP, Azure",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Tableau, Pandas, DVC, EDA, Model Evaluation, Google Cloud, MLOps, Clustering, BigQuery",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "BigQuery, Azure, PyTorch, A/B Testing, Scikit-learn, Deep Learning, Python, MLFlow, Data Visualization",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Tally, C#, Networking, Kubernetes, Photoshop, Customer Service, Animation, Accounting, WordPress",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Linux, Ansible, React, PCB Design, Tally, Java, SEO, DevOps, Animation, Hospitality",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Power BI, Statistics, Model Evaluation, Jupyter Notebook, Data Analysis, Python, TensorFlow, MLFlow, BigQuery, MLOps",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Tally, Motion Graphics, Flutter, C#, Networking, Animation, Dart, Interior Design, Linux, Kubernetes",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Linux, Hospitality, C#, Visual Identity, Ansible, Angular, Dart, Salesforce",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Visual Identity, Game Design, Android, Spring Boot, WordPress, Customer Service, Marketing, SEO, Hospitality, Salesforce",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Scrum, Visual Identity, Photoshop, PCB Design, Linux, Spring Boot, SEO, Java, React, CRM",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Matplotlib, SQL, A/B Testing, DVC, Data Wrangling, Azure, Regression, TensorFlow, Feature Engineering, Jupyter Notebook",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Bayesian Inference, AWS, Model Evaluation, Data Wrangling, Machine Learning, Pandas, Azure, Keras",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Feature Engineering, Tableau, Bayesian Inference, MLOps, TensorFlow, NLP, Clustering, Azure",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Clustering, Matplotlib, A/B Testing, Model Evaluation, Deep Learning, Data Wrangling, Model Deployment, Google Cloud, Data Analysis",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Deep Learning, Jupyter Notebook, Tableau, Keras, Classification, Machine Learning, AWS, Data Analysis, Scikit-learn",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Clustering, Scikit-learn, Matplotlib, Bayesian Inference, EDA, NumPy, Machine Learning, Power BI",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Salesforce, Ansible, PCB Design, Linux, Customer Service, Java, DevOps, Scrum, Angular",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Data Analysis, Tableau, Jupyter Notebook, Scikit-learn, Feature Engineering, BigQuery, EDA, A/B Testing, Bayesian Inference, Keras",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "A/B Testing, Google Cloud, Data Wrangling, Scikit-learn, Model Deployment, Classification, NumPy, Jupyter Notebook, Deep Learning, Data Visualization",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Scikit-learn, Data Analysis, BigQuery, SQL, Bayesian Inference, Clustering, Jupyter Notebook, NumPy",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Data Wrangling, Regression, EDA, NLP, Deep Learning, PyTorch, Google Cloud, Classification, Model Deployment",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "MLFlow, MLOps, Model Deployment, Azure, Scikit-learn, DVC, Keras, Jupyter Notebook, Classification, BigQuery",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Data Analysis, Statistics, EDA, Matplotlib, PyTorch, Scikit-learn, Tableau, Feature Engineering, Data Wrangling",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Keras, Pandas, PyTorch, Data Analysis, TensorFlow, Statistics, NLP, Model Evaluation, Scikit-learn, Python",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Classification, Python, Data Visualization, NLP, Feature Engineering, Google Cloud, Jupyter Notebook, Model Evaluation, TensorFlow, Machine Learning",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Jupyter Notebook, Model Deployment, A/B Testing, Power BI, TensorFlow, EDA, BigQuery, Feature Engineering, PyTorch",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Model Deployment, Azure, TensorFlow, Data Visualization, PyTorch, Machine Learning, Jupyter Notebook, NumPy",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Feature Engineering, Model Evaluation, Regression, Bayesian Inference, PyTorch, NLP, Power BI, Statistics",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Tally, Motion Graphics, Photoshop, WordPress, PCB Design, Ansible, Arduino, Salesforce, Customer Service",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Keras, Machine Learning, Model Evaluation, Data Wrangling, Python, PyTorch, Azure, TensorFlow, SQL, Bayesian Inference",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Bayesian Inference, Model Evaluation, Data Analysis, DVC, PyTorch, AWS, MLFlow, Feature Engineering, EDA",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Accounting, DevOps, Arduino, CRM, Spring Boot, Visual Identity, Networking, Flutter, Hospitality",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Arduino, Ansible, Hospitality, PCB Design, Spring Boot, Networking, Photoshop, Linux, Animation",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Interior Design, Flutter, Angular, Marketing, Dart, C#, Kubernetes, Photoshop, Arduino",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Clustering, Scikit-learn, A/B Testing, Matplotlib, TensorFlow, Bayesian Inference, Azure, Classification, Google Cloud, Machine Learning",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "DVC, Matplotlib, Model Deployment, Jupyter Notebook, TensorFlow, A/B Testing, NumPy, Data Visualization, Tableau, Classification",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "NLP, Jupyter Notebook, Pandas, Data Visualization, A/B Testing, Data Analysis, Clustering, Regression, Data Wrangling, Model Evaluation",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Arduino, Linux, WordPress, Scrum, Visual Identity, DevOps, Networking, C#",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "EDA, Deep Learning, Statistics, A/B Testing, Data Visualization, Keras, SQL, Machine Learning, NumPy",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "DVC, PyTorch, A/B Testing, Python, SQL, Bayesian Inference, Google Cloud, Tableau, Model Evaluation, Power BI",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Android, Photoshop, Game Design, Networking, Customer Service, Ansible, WordPress, Hospitality, Salesforce",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "BigQuery, Bayesian Inference, Classification, Matplotlib, Data Visualization, Data Analysis, Jupyter Notebook, Deep Learning, Model Evaluation",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Feature Engineering, Statistics, NLP, Power BI, Matplotlib, BigQuery, AWS, Clustering, NumPy, Model Evaluation",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "PyTorch, Keras, NLP, Jupyter Notebook, MLFlow, Tableau, EDA, SQL, Data Wrangling",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Regression, Scikit-learn, Jupyter Notebook, Classification, A/B Testing, BigQuery, MLFlow, EDA, Keras",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "DevOps, Motion Graphics, Angular, Accounting, Ansible, Android, Kubernetes, CRM, Customer Service",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Data Analysis, Scikit-learn, Keras, Data Visualization, Jupyter Notebook, MLOps, Clustering, SQL, Google Cloud, EDA",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "CRM, Salesforce, Networking, Interior Design, C#, Game Design, Arduino, Motion Graphics, Customer Service, Accounting",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Accounting, Dart, CRM, Hospitality, C#, React, Networking, Kubernetes, Ansible",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Tally, Linux, Ansible, Motion Graphics, DevOps, Dart, Photoshop, SEO",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Model Deployment, Machine Learning, Pandas, Python, TensorFlow, Azure, Scikit-learn, Google Cloud, Deep Learning, MLOps",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Matplotlib, Bayesian Inference, Azure, Python, SQL, Machine Learning, Data Visualization, A/B Testing, Scikit-learn",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Model Evaluation, EDA, AWS, Bayesian Inference, Google Cloud, Data Wrangling, Jupyter Notebook, PyTorch, Data Visualization",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "BigQuery, Data Visualization, Power BI, Tableau, DVC, Azure, TensorFlow, NLP",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Marketing, PCB Design, Hospitality, Android, CRM, Interior Design, Salesforce, React",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Interior Design, SEO, Angular, Motion Graphics, Visual Identity, Hospitality, Ansible, Customer Service, Game Design",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Machine Learning, Scikit-learn, Tableau, BigQuery, AWS, EDA, Bayesian Inference, Azure, PyTorch",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "BigQuery, Pandas, MLFlow, Google Cloud, PyTorch, Statistics, EDA, Tableau",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Spring Boot, Motion Graphics, Dart, Java, Animation, Photoshop, React, Game Design, Interior Design",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "WordPress, Spring Boot, Marketing, Java, Scrum, Ansible, Angular, Kubernetes, PCB Design",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Scikit-learn, Azure, TensorFlow, Statistics, Matplotlib, Python, Tableau, Power BI, EDA",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Spring Boot, Android, Salesforce, Tally, Kubernetes, Photoshop, Hospitality, CRM",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Tableau, Data Visualization, SQL, NLP, AWS, Keras, TensorFlow, Model Deployment",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Pandas, SQL, Google Cloud, MLFlow, Power BI, MLOps, Data Visualization, Bayesian Inference, Tableau, Python",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Flutter, CRM, React, Scrum, Android, Game Design, Photoshop, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "WordPress, Animation, Android, React, Game Design, Customer Service, Ansible, Spring Boot, Angular",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Scrum, Kubernetes, Visual Identity, SEO, Ansible, Dart, Arduino, Customer Service, Animation, Interior Design",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "A/B Testing, Power BI, Tableau, Bayesian Inference, MLFlow, Scikit-learn, Regression, Google Cloud, Python",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Salesforce, Linux, PCB Design, Angular, DevOps, Flutter, React, Motion Graphics, Android, Spring Boot",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Pandas, PyTorch, Power BI, NumPy, Azure, Classification, Clustering, Tableau",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Android, Kubernetes, Arduino, Interior Design, Java, Salesforce, Motion Graphics, Linux, Hospitality",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "PCB Design, Flutter, Photoshop, Visual Identity, C#, Android, Kubernetes, Customer Service, DevOps",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Accounting, PCB Design, Salesforce, C#, Flutter, Java, Photoshop, CRM, React, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Clustering, MLOps, EDA, Bayesian Inference, Power BI, Model Deployment, PyTorch, A/B Testing, Data Visualization",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Jupyter Notebook, SQL, PyTorch, Machine Learning, Google Cloud, Power BI, Bayesian Inference, Tableau, DVC",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Tally, SEO, Ansible, Dart, Animation, DevOps, Accounting, Photoshop",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Android, Game Design, Angular, SEO, Hospitality, Flutter, Spring Boot, Interior Design",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "BigQuery, NumPy, Machine Learning, Data Visualization, Jupyter Notebook, Bayesian Inference, PyTorch, Python, Data Analysis, TensorFlow",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "BigQuery, Deep Learning, Feature Engineering, Classification, Azure, Scikit-learn, MLOps, Model Evaluation, DVC",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Motion Graphics, Angular, Salesforce, Visual Identity, Kubernetes, Customer Service, SEO, Ansible",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "A/B Testing, Tableau, Google Cloud, Azure, NumPy, BigQuery, Jupyter Notebook, Scikit-learn, Keras",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Dart, Motion Graphics, Kubernetes, Android, SEO, CRM, Angular, Scrum",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Matplotlib, Power BI, EDA, NumPy, Clustering, SQL, Data Wrangling, MLFlow, TensorFlow",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Hospitality, Scrum, PCB Design, Arduino, Game Design, Flutter, Angular, Ansible, Networking, Spring Boot",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Networking, Visual Identity, Dart, WordPress, Java, Game Design, Linux, Motion Graphics, Arduino",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Visual Identity, SEO, PCB Design, Salesforce, Animation, Arduino, Tally, Flutter, Photoshop, Customer Service",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Spring Boot, C#, Marketing, Angular, Java, SEO, Animation, React, Customer Service, Ansible",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Motion Graphics, Accounting, PCB Design, React, Angular, Arduino, Networking, Flutter",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Visual Identity, Game Design, SEO, Dart, Scrum, Salesforce, Customer Service, Accounting, Marketing, CRM",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Data Wrangling, Model Evaluation, NumPy, Scikit-learn, Feature Engineering, Keras, Google Cloud, AWS",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Tally, SEO, Ansible, Android, Photoshop, Flutter, Kubernetes, Scrum",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "DevOps, Android, Tally, SEO, Ansible, Arduino, Customer Service, Accounting, Game Design",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "C#, Networking, Game Design, Tally, Linux, CRM, Visual Identity, PCB Design, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Matplotlib, MLFlow, MLOps, Data Analysis, NumPy, Jupyter Notebook, Clustering, NLP, Python",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Angular, Networking, Kubernetes, DevOps, WordPress, Arduino, Customer Service, Hospitality, Dart, Interior Design",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Tally, Visual Identity, Customer Service, Angular, Ansible, CRM, SEO, Interior Design, React, Android",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Bayesian Inference, Python, Model Evaluation, Google Cloud, Tableau, BigQuery, NumPy, TensorFlow",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Python, Classification, EDA, Data Analysis, MLOps, Data Wrangling, Bayesian Inference, Keras",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "SQL, PyTorch, Python, Model Deployment, Regression, Google Cloud, Scikit-learn, AWS",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Animation, DevOps, Marketing, Motion Graphics, Ansible, Android, Kubernetes, Customer Service, C#, WordPress",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Flutter, Arduino, Game Design, PCB Design, C#, Interior Design, Photoshop, Accounting, DevOps, Android",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "TensorFlow, MLFlow, Pandas, Model Deployment, Scikit-learn, Classification, Machine Learning, Bayesian Inference, Keras",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Scrum, Game Design, Flutter, PCB Design, Visual Identity, Customer Service, Linux, SEO, Animation, Motion Graphics",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Classification, NumPy, A/B Testing, TensorFlow, MLFlow, Bayesian Inference, Matplotlib, MLOps, Data Wrangling",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Pandas, Model Evaluation, Data Analysis, NLP, Power BI, Azure, Feature Engineering, Jupyter Notebook, Python, AWS",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Matplotlib, BigQuery, MLOps, Feature Engineering, MLFlow, Data Analysis, NLP, Classification, Model Evaluation, SQL",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Customer Service, Interior Design, Java, SEO, Tally, Arduino, Visual Identity, Angular, Kubernetes, WordPress",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "AWS, MLFlow, Classification, Data Visualization, NLP, Deep Learning, Matplotlib, Model Evaluation, Statistics, PyTorch",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "WordPress, PCB Design, Angular, Android, Interior Design, Marketing, SEO, Animation, Salesforce, Flutter",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Tableau, Model Deployment, Azure, Clustering, TensorFlow, Bayesian Inference, Pandas, MLFlow, PyTorch, BigQuery",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "AWS, Data Visualization, EDA, Feature Engineering, Pandas, NumPy, A/B Testing, Machine Learning, Python, DVC",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Model Evaluation, Clustering, Data Visualization, Power BI, Statistics, TensorFlow, Tableau, Bayesian Inference",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "React, Angular, WordPress, Salesforce, Hospitality, Arduino, Customer Service, C#, Flutter, SEO",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Customer Service, Visual Identity, Motion Graphics, WordPress, Android, Arduino, Accounting, Interior Design",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Android, Animation, WordPress, Scrum, Game Design, Customer Service, Photoshop, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Kubernetes, Hospitality, Dart, Motion Graphics, React, Customer Service, Java, Angular",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Jupyter Notebook, Model Deployment, Data Analysis, Statistics, Data Wrangling, MLOps, Pandas, Power BI, TensorFlow",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "SQL, Data Analysis, Classification, Data Visualization, Regression, Statistics, AWS, Model Deployment, Python, Azure",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Java, Angular, WordPress, C#, Game Design, Tally, Scrum, Interior Design, Motion Graphics",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Data Visualization, Regression, Google Cloud, DVC, NLP, MLOps, BigQuery, Model Evaluation, Scikit-learn, Power BI",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Accounting, Tally, SEO, Salesforce, Hospitality, Kubernetes, PCB Design, Visual Identity",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Pandas, TensorFlow, MLOps, Data Analysis, PyTorch, Model Deployment, Power BI, Matplotlib, Feature Engineering",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "DevOps, Arduino, Spring Boot, CRM, Game Design, Linux, Motion Graphics, Animation, Java, Angular",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Photoshop, Customer Service, Ansible, Dart, Visual Identity, Linux, Animation, Arduino, Flutter",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Clustering, Model Deployment, NLP, Deep Learning, Statistics, Tableau, MLOps, Scikit-learn",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Spring Boot, Dart, Visual Identity, PCB Design, Motion Graphics, Ansible, Linux, Customer Service, Android, Photoshop",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "TensorFlow, Power BI, Model Evaluation, DVC, Pandas, Tableau, MLFlow, NumPy, AWS, SQL",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Interior Design, PCB Design, Accounting, SEO, Game Design, C#, Angular, Kubernetes, Motion Graphics",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Accounting, Flutter, Java, Scrum, Dart, CRM, Interior Design, WordPress, Customer Service",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Interior Design, SEO, Linux, CRM, PCB Design, Animation, DevOps, Customer Service, Arduino, C#",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Visual Identity, Dart, Interior Design, React, SEO, Salesforce, CRM, Ansible, Arduino",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Pandas, NumPy, AWS, Data Analysis, Google Cloud, EDA, NLP, DVC, Keras",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Hospitality, React, Java, WordPress, Animation, Salesforce, Tally, Motion Graphics, SEO, Spring Boot",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Azure, Scikit-learn, Model Deployment, NumPy, Clustering, EDA, Classification, Matplotlib",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Scikit-learn, Statistics, Power BI, Deep Learning, Data Wrangling, A/B Testing, Data Visualization, Keras, Google Cloud, Regression",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "EDA, Data Analysis, Feature Engineering, A/B Testing, Deep Learning, Clustering, SQL, Python, MLOps, MLFlow",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Keras, Azure, Matplotlib, MLFlow, A/B Testing, Pandas, Regression, BigQuery, Scikit-learn, Google Cloud",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "NumPy, Model Deployment, Pandas, Google Cloud, Python, Bayesian Inference, PyTorch, Statistics, Tableau, EDA",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Customer Service, Kubernetes, Ansible, Dart, Android, Arduino, Game Design, Visual Identity, Spring Boot",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "CRM, Ansible, Hospitality, Photoshop, Game Design, Networking, Kubernetes, DevOps, Marketing, Tally",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Angular, WordPress, Interior Design, SEO, Tally, DevOps, Spring Boot, React",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "DVC, TensorFlow, Data Analysis, MLFlow, Regression, Google Cloud, Model Evaluation, Azure, Keras",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Ansible, Photoshop, Java, DevOps, SEO, Tally, WordPress, Arduino, Animation, Salesforce",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Accounting, Angular, Game Design, Visual Identity, CRM, Marketing, PCB Design, Networking, Tally, SEO",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "MLFlow, NLP, Bayesian Inference, Machine Learning, BigQuery, NumPy, Clustering, Model Evaluation",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Machine Learning, EDA, Google Cloud, Data Visualization, Bayesian Inference, Model Deployment, Classification, Model Evaluation, Feature Engineering, A/B Testing",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "PyTorch, MLFlow, Deep Learning, NLP, Bayesian Inference, DVC, TensorFlow, Matplotlib, Data Visualization",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Scrum, Game Design, Ansible, Java, Marketing, Android, Photoshop, Arduino, Dart, CRM",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Azure, MLOps, PyTorch, Tableau, NumPy, Classification, NLP, SQL, DVC",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Game Design, React, Hospitality, CRM, Android, Kubernetes, Accounting, SEO, Customer Service",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Flutter, Tally, Linux, Ansible, Motion Graphics, DevOps, Kubernetes, Arduino, Android",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Pandas, Deep Learning, MLOps, DVC, Statistics, Feature Engineering, TensorFlow, Bayesian Inference, NLP",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Scikit-learn, Clustering, Jupyter Notebook, Machine Learning, Data Wrangling, Model Evaluation, NumPy, Google Cloud, NLP, Regression",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "SQL, Classification, MLFlow, PyTorch, Machine Learning, Feature Engineering, EDA, Power BI",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "DevOps, Spring Boot, Ansible, Android, Networking, Angular, Kubernetes, PCB Design, Marketing, Game Design",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Interior Design, PCB Design, Salesforce, Visual Identity, Accounting, Dart, Flutter, Hospitality, Motion Graphics",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Tableau, BigQuery, TensorFlow, Deep Learning, Clustering, Feature Engineering, Pandas, NumPy, Bayesian Inference",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Networking, PCB Design, Tally, Accounting, Ansible, Linux, React, Game Design, Angular",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Accounting, Motion Graphics, Photoshop, Ansible, DevOps, Marketing, CRM, WordPress, Linux, Arduino",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Power BI, Azure, Data Wrangling, EDA, Data Analysis, AWS, A/B Testing, Machine Learning, MLOps",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "SEO, Android, Salesforce, Interior Design, React, Ansible, Accounting, Flutter",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "BigQuery, MLFlow, TensorFlow, Classification, PyTorch, Matplotlib, SQL, Model Deployment",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Pandas, Tableau, Deep Learning, Azure, Data Visualization, MLFlow, TensorFlow, AWS",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Interior Design, Salesforce, DevOps, Customer Service, Photoshop, Hospitality, WordPress, Java",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "NLP, Data Visualization, SQL, AWS, NumPy, MLFlow, Google Cloud, Tableau, Statistics",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Tableau, Data Wrangling, PyTorch, Bayesian Inference, Data Visualization, Power BI, Pandas, MLOps, Clustering",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Power BI, NLP, EDA, NumPy, Data Visualization, Model Deployment, MLOps, A/B Testing, SQL",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "CRM, Animation, Ansible, Interior Design, Motion Graphics, Java, Game Design, Photoshop, Marketing, Customer Service",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Tally, Angular, Motion Graphics, React, Interior Design, Kubernetes, Hospitality, Android, Networking",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Dart, Angular, Animation, Game Design, Kubernetes, Scrum, Flutter, Salesforce",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Pandas, Model Deployment, Data Analysis, Clustering, Scikit-learn, Model Evaluation, EDA, Tableau, Data Wrangling",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Java, Customer Service, Linux, DevOps, Motion Graphics, WordPress, Networking, Flutter",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Salesforce, Networking, DevOps, Game Design, Accounting, Spring Boot, Photoshop, Animation",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Networking, Customer Service, Motion Graphics, Hospitality, Salesforce, Visual Identity, Linux, React, C#, Angular",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Salesforce, Tally, Arduino, Dart, Java, Accounting, SEO, CRM, Interior Design",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Classification, MLFlow, TensorFlow, Data Wrangling, Regression, SQL, BigQuery, Deep Learning",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Customer Service, Ansible, Salesforce, Linux, Flutter, Angular, Accounting, Hospitality, Game Design, Spring Boot",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Photoshop, Dart, Arduino, React, SEO, Ansible, Angular, DevOps",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Model Deployment, NumPy, Tableau, TensorFlow, Scikit-learn, DVC, Statistics, Python, SQL",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Linux, Motion Graphics, Kubernetes, Salesforce, Interior Design, Game Design, WordPress, Tally, Marketing, CRM",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "AWS, Data Analysis, Statistics, TensorFlow, MLFlow, Model Deployment, NumPy, Classification",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "PyTorch, Deep Learning, NLP, Classification, SQL, Bayesian Inference, Data Analysis, TensorFlow, Model Deployment, Python",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Ansible, Hospitality, Spring Boot, Interior Design, Angular, Customer Service, Game Design, PCB Design, Photoshop, Kubernetes",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Networking, C#, Angular, React, SEO, Arduino, CRM, Animation",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Scrum, Dart, Linux, Animation, Customer Service, PCB Design, Android, Marketing, Java, Game Design",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Visual Identity, Animation, PCB Design, Arduino, Interior Design, DevOps, Networking, SEO, C#, Dart",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "C#, Flutter, Ansible, Hospitality, SEO, PCB Design, Accounting, Angular",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Machine Learning, Power BI, Data Visualization, Regression, Model Evaluation, Tableau, Bayesian Inference, Scikit-learn",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Tally, Networking, Flutter, Salesforce, Arduino, Scrum, Visual Identity, Java",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Statistics, Feature Engineering, Python, PyTorch, Keras, Tableau, Azure, A/B Testing, DVC, Jupyter Notebook",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Flutter, Visual Identity, Android, Game Design, SEO, Kubernetes, Salesforce, Interior Design, Angular",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "PyTorch, A/B Testing, Matplotlib, Clustering, BigQuery, Power BI, Data Wrangling, Google Cloud",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Data Analysis, Clustering, Scikit-learn, Deep Learning, Bayesian Inference, Power BI, Regression, TensorFlow, PyTorch",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Tally, Salesforce, Flutter, Arduino, Dart, Marketing, Interior Design, Hospitality, Networking",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Flutter, Accounting, DevOps, Tally, Networking, Marketing, Hospitality, React",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Arduino, Accounting, Customer Service, C#, Angular, CRM, Marketing, Networking, Motion Graphics",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Tally, React, Accounting, CRM, Angular, Flutter, Ansible, PCB Design, Linux",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "C#, Dart, SEO, Interior Design, Linux, Flutter, DevOps, Marketing, Arduino",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Photoshop, Android, Flutter, Accounting, WordPress, SEO, Visual Identity, Customer Service, React",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Scrum, Motion Graphics, C#, Salesforce, Interior Design, Dart, Kubernetes, PCB Design",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Model Deployment, Deep Learning, NLP, A/B Testing, BigQuery, DVC, Python, Regression",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Arduino, React, Kubernetes, SEO, Ansible, Networking, Flutter, Linux, Hospitality",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Model Deployment, TensorFlow, Matplotlib, Data Visualization, BigQuery, Clustering, MLFlow, A/B Testing, AWS",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Arduino, Game Design, Tally, Linux, Android, Interior Design, React, Dart",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Linux, PCB Design, React, Photoshop, Java, Visual Identity, Kubernetes, Networking",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "SEO, Motion Graphics, PCB Design, Hospitality, Ansible, Scrum, Kubernetes, Linux, Visual Identity, Networking",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Scrum, C#, PCB Design, Salesforce, Hospitality, Visual Identity, Ansible, Android",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Interior Design, Salesforce, Arduino, Tally, Networking, React, SEO, C#, Spring Boot, Photoshop",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Deep Learning, Bayesian Inference, Google Cloud, Matplotlib, Azure, Machine Learning, Classification, Power BI",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "PyTorch, NumPy, Statistics, Classification, Data Analysis, SQL, Matplotlib, Machine Learning",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "MLOps, Python, A/B Testing, Deep Learning, DVC, Data Analysis, NLP, Clustering",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Bayesian Inference, A/B Testing, MLFlow, Jupyter Notebook, Azure, BigQuery, TensorFlow, Google Cloud",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Statistics, SQL, PyTorch, NumPy, A/B Testing, Data Analysis, DVC, Keras, Pandas, Scikit-learn",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Python, Regression, Google Cloud, Feature Engineering, Pandas, Clustering, DVC, MLFlow, PyTorch, Classification",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Hospitality, Arduino, Marketing, Visual Identity, Accounting, Game Design, Dart, PCB Design, SEO, Kubernetes",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "NumPy, AWS, Model Evaluation, Clustering, Deep Learning, Scikit-learn, Model Deployment, Feature Engineering",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Android, Scrum, Kubernetes, Arduino, Visual Identity, Java, Hospitality, Salesforce, Angular, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Ansible, Salesforce, Motion Graphics, WordPress, Visual Identity, Linux, Dart, Spring Boot",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Data Wrangling, Pandas, Jupyter Notebook, NumPy, Keras, Model Deployment, PyTorch, Scikit-learn, Statistics, BigQuery",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "MLFlow, Python, DVC, EDA, Google Cloud, Jupyter Notebook, Feature Engineering, Model Evaluation",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "PCB Design, Kubernetes, Spring Boot, Flutter, WordPress, Interior Design, Salesforce, React, Ansible, Arduino",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Hospitality, Visual Identity, Animation, Marketing, Flutter, Tally, DevOps, Interior Design",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Dart, Photoshop, Marketing, Android, React, Animation, Angular, Accounting, Ansible, PCB Design",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "SEO, React, Visual Identity, Accounting, Kubernetes, PCB Design, Android, Photoshop",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "PyTorch, Keras, Python, Power BI, Pandas, Statistics, Data Visualization, Clustering, NLP",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Android, Spring Boot, Flutter, CRM, Visual Identity, Java, WordPress, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Ansible, Dart, Tally, Angular, Android, Game Design, Linux, React, Customer Service, Kubernetes",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "NLP, Regression, Tableau, MLFlow, Python, Azure, MLOps, Model Deployment, Statistics, Feature Engineering",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Machine Learning, SQL, Data Analysis, Jupyter Notebook, Data Visualization, DVC, BigQuery, Regression",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Accounting, Scrum, CRM, Motion Graphics, SEO, React, Customer Service, Photoshop",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "EDA, Statistics, A/B Testing, Deep Learning, Clustering, DVC, NumPy, Pandas, Data Wrangling, Scikit-learn",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Model Evaluation, Pandas, Power BI, Model Deployment, PyTorch, Bayesian Inference, Python, Statistics, SQL, AWS",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Motion Graphics, Salesforce, Java, Customer Service, Accounting, Photoshop, DevOps, Spring Boot",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Networking, WordPress, Animation, Interior Design, SEO, Motion Graphics, Photoshop, Visual Identity",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Machine Learning, Model Deployment, Tableau, A/B Testing, Statistics, Bayesian Inference, Data Analysis, Classification, NLP",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Python, Machine Learning, Jupyter Notebook, Clustering, SQL, EDA, Bayesian Inference, Model Evaluation, NLP, Data Wrangling",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "React, Linux, CRM, Customer Service, Game Design, Java, SEO, Scrum, Spring Boot, DevOps",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "EDA, Statistics, Clustering, PyTorch, A/B Testing, TensorFlow, MLOps, Tableau",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Marketing, Linux, CRM, React, SEO, Motion Graphics, Flutter, Accounting",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Classification, DVC, Model Deployment, Power BI, Data Analysis, Data Visualization, Model Evaluation, Feature Engineering, Regression, Tableau",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Scrum, Android, Visual Identity, Tally, Interior Design, Ansible, Angular, DevOps",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Game Design, Visual Identity, Arduino, C#, Tally, Flutter, Salesforce, Kubernetes, Java, CRM",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "WordPress, Linux, Accounting, Photoshop, Scrum, Salesforce, Arduino, CRM",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Deep Learning, AWS, DVC, Regression, Keras, NumPy, Classification, MLOps, Model Evaluation, Power BI",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Hospitality, PCB Design, CRM, Interior Design, SEO, Accounting, Salesforce, Photoshop",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Machine Learning, EDA, Feature Engineering, Python, Google Cloud, Statistics, Classification, DVC, MLFlow, Pandas",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Data Analysis, Clustering, SQL, Feature Engineering, NumPy, Scikit-learn, BigQuery, EDA, Bayesian Inference",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "WordPress, Marketing, Salesforce, Spring Boot, CRM, DevOps, Tally, PCB Design, Photoshop",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "DevOps, Animation, Android, SEO, Visual Identity, Networking, Flutter, Interior Design, Game Design",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Ansible, CRM, Motion Graphics, Kubernetes, Java, Spring Boot, C#, Animation, WordPress, SEO",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Matplotlib, Clustering, Jupyter Notebook, Data Analysis, EDA, NLP, SQL, Bayesian Inference",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Linux, SEO, Dart, Tally, DevOps, Java, Flutter, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "PyTorch, Pandas, Power BI, Feature Engineering, DVC, Data Wrangling, TensorFlow, AWS, EDA",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Tally, PCB Design, DevOps, Linux, Game Design, C#, Photoshop, Marketing, Customer Service, Flutter",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Ansible, Marketing, Dart, PCB Design, Game Design, Networking, Tally, Linux",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Salesforce, Marketing, Networking, Spring Boot, Scrum, C#, Tally, Flutter",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Flutter, Game Design, Motion Graphics, Angular, DevOps, Customer Service, C#, Interior Design",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Python, MLOps, TensorFlow, Machine Learning, Pandas, Scikit-learn, Regression, Power BI, EDA",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Clustering, SQL, Bayesian Inference, Statistics, Feature Engineering, Data Wrangling, NLP, Pandas, Power BI",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Java, Ansible, Customer Service, C#, Photoshop, PCB Design, Networking, Angular, Game Design, Dart",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "EDA, DVC, Feature Engineering, MLOps, PyTorch, NumPy, MLFlow, Keras, Google Cloud",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "WordPress, Java, Salesforce, Scrum, Customer Service, Linux, Game Design, Dart, Kubernetes",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Google Cloud, Bayesian Inference, MLFlow, Data Visualization, Model Deployment, Tableau, Pandas, MLOps, SQL, Regression",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Machine Learning, Pandas, NumPy, AWS, PyTorch, Regression, Feature Engineering, Power BI, Keras",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Jupyter Notebook, Keras, Statistics, Python, Feature Engineering, Data Visualization, Data Wrangling, EDA, PyTorch, Tableau",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Jupyter Notebook, Scikit-learn, Python, TensorFlow, Tableau, Deep Learning, Bayesian Inference, Pandas",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Kubernetes, Game Design, Dart, Arduino, Customer Service, Interior Design, Android, Scrum, Accounting, Photoshop",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "React, Animation, SEO, Visual Identity, Kubernetes, Customer Service, Flutter, Scrum",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "CRM, Tally, Spring Boot, Scrum, Hospitality, Ansible, Angular, DevOps",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Accounting, DevOps, Flutter, Photoshop, Linux, Customer Service, Spring Boot, Motion Graphics",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "MLOps, Bayesian Inference, Statistics, Jupyter Notebook, Azure, Scikit-learn, Google Cloud, A/B Testing",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Statistics, Scikit-learn, TensorFlow, BigQuery, Feature Engineering, Model Deployment, Google Cloud, MLFlow",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Ansible, Flutter, React, CRM, Spring Boot, Visual Identity, Scrum, Customer Service",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "MLOps, Data Wrangling, Clustering, A/B Testing, Google Cloud, PyTorch, Jupyter Notebook, Tableau, Bayesian Inference, Classification",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Pandas, Regression, SQL, Model Deployment, Power BI, MLOps, Data Analysis, Jupyter Notebook",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Animation, Interior Design, Scrum, Salesforce, PCB Design, DevOps, Visual Identity, Flutter",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Animation, PCB Design, Scrum, Customer Service, React, Linux, C#, SEO, DevOps",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "C#, Linux, SEO, Android, Arduino, WordPress, Animation, Game Design, Angular, Accounting",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Marketing, C#, React, Arduino, Animation, Flutter, Dart, PCB Design, Motion Graphics",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "AWS, BigQuery, Regression, Statistics, EDA, Deep Learning, DVC, MLOps, Bayesian Inference",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Flutter, DevOps, SEO, Hospitality, PCB Design, Angular, C#, Spring Boot, React, Motion Graphics",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "A/B Testing, DVC, NLP, EDA, Jupyter Notebook, Python, NumPy, Classification, Power BI, Machine Learning",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Customer Service, Marketing, Android, DevOps, Animation, Networking, CRM, Accounting, React, Tally",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "AWS, Clustering, TensorFlow, SQL, Machine Learning, Jupyter Notebook, Power BI, Tableau, Deep Learning, Classification",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Clustering, SQL, Data Visualization, DVC, Classification, A/B Testing, Keras, Feature Engineering",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Salesforce, Game Design, Visual Identity, Hospitality, SEO, Java, Customer Service, Scrum, Interior Design, Spring Boot",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Classification, Python, Deep Learning, AWS, NumPy, PyTorch, Jupyter Notebook, Power BI, TensorFlow",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Clustering, MLFlow, Python, Bayesian Inference, BigQuery, Google Cloud, Machine Learning, Data Analysis",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "NLP, Machine Learning, MLFlow, PyTorch, Pandas, Classification, Model Evaluation, Regression, Data Wrangling",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Statistics, Scikit-learn, NLP, A/B Testing, EDA, Google Cloud, Model Evaluation, Machine Learning, Matplotlib",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Networking, Dart, Accounting, SEO, Salesforce, Customer Service, Hospitality, Ansible, Android",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "PCB Design, Accounting, Spring Boot, Dart, Marketing, Interior Design, Android, Game Design, Animation, Hospitality",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "DevOps, Android, Kubernetes, Motion Graphics, Scrum, Game Design, SEO, Linux, Networking",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Customer Service, Photoshop, Angular, Scrum, C#, Spring Boot, Tally, Salesforce, Marketing, Visual Identity",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Feature Engineering, Google Cloud, Statistics, PyTorch, Clustering, NumPy, Data Visualization, Data Wrangling",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "BigQuery, Data Wrangling, Model Deployment, Deep Learning, Python, DVC, Regression, Feature Engineering, EDA, NLP",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "NumPy, DVC, Power BI, Jupyter Notebook, MLOps, Scikit-learn, Deep Learning, Matplotlib",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Tally, Dart, Flutter, Networking, Customer Service, Android, Angular, Visual Identity, Game Design, Scrum",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Photoshop, Hospitality, CRM, Tally, Dart, Networking, Salesforce, Java, Android, Linux",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "React, Networking, Arduino, Android, Flutter, Hospitality, Game Design, Kubernetes, Visual Identity, Spring Boot",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Dart, Hospitality, Game Design, Salesforce, SEO, PCB Design, Flutter, Customer Service",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Accounting, Flutter, CRM, Customer Service, Hospitality, Interior Design, Kubernetes, Game Design, Salesforce, Android",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Tally, Arduino, CRM, Scrum, Android, Salesforce, Java, C#, Dart",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Pandas, Clustering, BigQuery, Python, TensorFlow, Matplotlib, Statistics, Machine Learning, EDA",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Deep Learning, Machine Learning, DVC, Feature Engineering, Keras, Data Visualization, Google Cloud, AWS, NumPy",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "TensorFlow, Keras, Data Visualization, Machine Learning, NLP, Feature Engineering, Python, Model Deployment, Regression",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Model Deployment, BigQuery, Python, A/B Testing, Tableau, Data Analysis, Feature Engineering, Google Cloud",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Photoshop, Game Design, Networking, C#, Visual Identity, Tally, DevOps, Marketing, Scrum, Accounting",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "PCB Design, Flutter, Arduino, Linux, Motion Graphics, Kubernetes, Customer Service, Ansible, Tally",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Model Evaluation, Machine Learning, AWS, MLOps, A/B Testing, Python, Jupyter Notebook, Matplotlib, Tableau, NLP",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Keras, DVC, NLP, A/B Testing, NumPy, PyTorch, Bayesian Inference, Data Visualization, TensorFlow, Jupyter Notebook",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Android, Animation, PCB Design, CRM, Hospitality, Tally, Networking, C#, Motion Graphics",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "WordPress, SEO, Kubernetes, Java, Linux, Motion Graphics, Spring Boot, Angular, C#, Salesforce",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Pandas, Data Wrangling, Model Deployment, PyTorch, Statistics, NumPy, Feature Engineering, Scikit-learn, Data Visualization, BigQuery",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "WordPress, React, Networking, Game Design, Salesforce, Angular, Scrum, Interior Design, Kubernetes",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Dart, Customer Service, Animation, Arduino, C#, Android, Networking, Ansible",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Classification, Matplotlib, NumPy, Data Visualization, Data Wrangling, Azure, Statistics, Data Analysis, Keras, Feature Engineering",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "SQL, EDA, Google Cloud, Data Analysis, BigQuery, Feature Engineering, MLOps, Tableau, Keras, A/B Testing",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Animation, SEO, React, Dart, Android, Angular, PCB Design, Visual Identity",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Data Visualization, Keras, Feature Engineering, Jupyter Notebook, MLFlow, Clustering, Machine Learning, Regression, SQL, Matplotlib",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Bayesian Inference, AWS, A/B Testing, Keras, Scikit-learn, Machine Learning, Pandas, DVC",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "A/B Testing, Pandas, Tableau, Data Analysis, EDA, BigQuery, Azure, TensorFlow, AWS, Statistics",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "DVC, Data Analysis, Google Cloud, Power BI, Data Visualization, A/B Testing, Tableau, PyTorch, Feature Engineering",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Angular, Ansible, Motion Graphics, Dart, WordPress, React, C#, SEO, Networking, Accounting",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Model Deployment, Tableau, TensorFlow, Feature Engineering, A/B Testing, Data Visualization, EDA, Data Wrangling, Pandas, Machine Learning",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "NLP, A/B Testing, Data Wrangling, Tableau, Model Evaluation, Feature Engineering, Jupyter Notebook, Model Deployment, EDA",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Flutter, DevOps, Kubernetes, Networking, Visual Identity, Hospitality, Animation, Java",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Clustering, Model Deployment, Data Wrangling, TensorFlow, Tableau, Bayesian Inference, Data Visualization, Classification",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Networking, Animation, Dart, Visual Identity, Game Design, SEO, Java, WordPress, Ansible",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Motion Graphics, Dart, DevOps, Game Design, Spring Boot, Animation, SEO, CRM",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Spring Boot, Kubernetes, React, Java, Marketing, Photoshop, CRM, Ansible",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "SQL, Model Deployment, Python, NLP, Clustering, Jupyter Notebook, Bayesian Inference, Regression",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Pandas, Keras, Data Analysis, EDA, Machine Learning, Model Deployment, Model Evaluation, PyTorch, NumPy, A/B Testing",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Customer Service, Flutter, WordPress, Networking, Tally, Android, SEO, Interior Design",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "DevOps, Android, Tally, CRM, Customer Service, PCB Design, Flutter, Visual Identity, WordPress, Interior Design",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Clustering, Bayesian Inference, PyTorch, TensorFlow, BigQuery, Model Deployment, Keras, EDA, Jupyter Notebook, Model Evaluation",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Kubernetes, PCB Design, Linux, Spring Boot, Ansible, Game Design, Visual Identity, Photoshop",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Statistics, TensorFlow, Classification, Regression, Data Wrangling, Deep Learning, BigQuery, Data Visualization, Model Deployment",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Arduino, PCB Design, Interior Design, Motion Graphics, Linux, Flutter, React, Kubernetes, WordPress, Salesforce",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Regression, Google Cloud, SQL, Model Deployment, BigQuery, Matplotlib, Azure, Model Evaluation, A/B Testing, NumPy",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Marketing, Tally, React, Spring Boot, Game Design, Angular, PCB Design, Animation, Java",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Python, Clustering, DVC, Statistics, MLOps, Matplotlib, PyTorch, AWS, Deep Learning, Classification",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "React, Motion Graphics, PCB Design, Customer Service, Angular, Flutter, Marketing, Arduino, CRM, Salesforce",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Jupyter Notebook, SQL, Model Deployment, Keras, Data Wrangling, Pandas, Azure, Machine Learning, AWS, Data Analysis",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "React, Marketing, WordPress, DevOps, Game Design, Interior Design, Customer Service, Photoshop, Android, C#",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "NLP, Machine Learning, Deep Learning, BigQuery, Model Deployment, TensorFlow, Keras, Feature Engineering, AWS, Classification",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Data Analysis, Keras, MLFlow, Clustering, Google Cloud, BigQuery, NLP, Classification, NumPy",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Keras, Jupyter Notebook, Google Cloud, BigQuery, Pandas, Machine Learning, PyTorch, EDA, Matplotlib",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "EDA, Data Analysis, Python, Pandas, Model Evaluation, NLP, Machine Learning, PyTorch, Data Wrangling, Tableau",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Model Evaluation, Feature Engineering, Classification, Statistics, Matplotlib, Model Deployment, Data Visualization, Power BI, MLFlow, Pandas",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "PyTorch, EDA, Data Visualization, Data Wrangling, Bayesian Inference, Clustering, TensorFlow, Statistics",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Angular, Flutter, Kubernetes, WordPress, Animation, Interior Design, Tally, Android, Salesforce",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Regression, Python, Model Evaluation, AWS, PyTorch, DVC, Model Deployment, EDA, Data Wrangling, Jupyter Notebook",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Kubernetes, Interior Design, Ansible, Photoshop, DevOps, Linux, Arduino, Salesforce",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "WordPress, Spring Boot, Motion Graphics, Android, PCB Design, Ansible, Game Design, Dart",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Power BI, DVC, MLFlow, Python, Data Wrangling, EDA, Machine Learning, MLOps",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Machine Learning, Model Deployment, Matplotlib, Clustering, NLP, Classification, BigQuery, Google Cloud",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Statistics, Google Cloud, Keras, PyTorch, Classification, MLFlow, Jupyter Notebook, A/B Testing",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Matplotlib, A/B Testing, Feature Engineering, Model Evaluation, TensorFlow, Data Visualization, SQL, Classification, Python",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "NLP, Azure, Scikit-learn, Regression, Machine Learning, Data Analysis, SQL, A/B Testing",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Power BI, Jupyter Notebook, AWS, Model Deployment, BigQuery, Machine Learning, Tableau, Model Evaluation",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Data Visualization, Data Wrangling, DVC, TensorFlow, Deep Learning, SQL, EDA, Azure",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "C#, Photoshop, Arduino, Angular, Animation, Android, Hospitality, SEO, Visual Identity",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "TensorFlow, Scikit-learn, NumPy, Azure, EDA, Statistics, MLFlow, Regression, MLOps",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "WordPress, Arduino, Linux, Spring Boot, C#, Tally, PCB Design, Visual Identity, Customer Service, Dart",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "EDA, Model Deployment, Clustering, Data Analysis, Tableau, Pandas, Classification, Jupyter Notebook, Statistics",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Azure, Bayesian Inference, SQL, MLOps, TensorFlow, Scikit-learn, Classification, Data Visualization, Model Deployment",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "TensorFlow, Python, Jupyter Notebook, Google Cloud, Model Evaluation, DVC, Machine Learning, Clustering",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Power BI, Clustering, Data Analysis, Machine Learning, Model Deployment, Matplotlib, Feature Engineering, SQL, NumPy, Python",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Android, Networking, Kubernetes, Accounting, Java, Customer Service, WordPress, Arduino, Hospitality, Marketing",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Animation, Salesforce, Spring Boot, C#, Scrum, React, Flutter, SEO",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "A/B Testing, NLP, SQL, Power BI, EDA, DVC, NumPy, Deep Learning, TensorFlow, Feature Engineering",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Flutter, Dart, Tally, CRM, Customer Service, Interior Design, Arduino, React, C#, Networking",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Statistics, Keras, Power BI, Data Analysis, MLFlow, MLOps, Python, Pandas",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Arduino, Customer Service, Accounting, Game Design, WordPress, CRM, Salesforce, Linux, Photoshop, Ansible",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "MLOps, Classification, Machine Learning, Model Deployment, EDA, A/B Testing, Deep Learning, Bayesian Inference, TensorFlow",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Pandas, Azure, Deep Learning, A/B Testing, BigQuery, Feature Engineering, Model Deployment, Keras, PyTorch, Clustering",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Java, Photoshop, Arduino, C#, Ansible, CRM, Android, Interior Design, Spring Boot, Visual Identity",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "SQL, Regression, NLP, Keras, Model Deployment, TensorFlow, Data Wrangling, Feature Engineering",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "SEO, Customer Service, Salesforce, Tally, Photoshop, Motion Graphics, WordPress, Hospitality",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Photoshop, Interior Design, Linux, Tally, Networking, Scrum, Ansible, Kubernetes",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Keras, EDA, PyTorch, Google Cloud, SQL, TensorFlow, NumPy, MLFlow, Matplotlib, Data Analysis",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "SEO, Customer Service, Tally, Ansible, DevOps, WordPress, Kubernetes, Android, Networking",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Marketing, Game Design, React, Animation, Android, Networking, Linux, Customer Service",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Visual Identity, CRM, Photoshop, Ansible, Networking, Kubernetes, SEO, Linux",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Marketing, Salesforce, Hospitality, WordPress, PCB Design, Scrum, Tally, Linux, Dart, Java",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Deep Learning, Classification, SQL, Jupyter Notebook, Matplotlib, Clustering, Data Wrangling, Data Visualization",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Ansible, CRM, Angular, Arduino, Motion Graphics, DevOps, Photoshop, Scrum, Accounting, Interior Design",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Game Design, Customer Service, Hospitality, Kubernetes, Photoshop, Visual Identity, Networking, Angular",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "MLOps, Data Analysis, Feature Engineering, Pandas, Python, PyTorch, MLFlow, Jupyter Notebook",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Accounting, PCB Design, Spring Boot, Dart, Customer Service, Salesforce, Linux, Arduino, Flutter, Java",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "SQL, Data Visualization, Jupyter Notebook, Data Wrangling, Deep Learning, Clustering, Regression, TensorFlow, Classification",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "MLFlow, NumPy, NLP, Clustering, TensorFlow, SQL, PyTorch, AWS",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Accounting, Java, SEO, Hospitality, Salesforce, Motion Graphics, Flutter, Interior Design, Networking, Angular",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "NumPy, Matplotlib, Model Deployment, Jupyter Notebook, NLP, Feature Engineering, A/B Testing, Data Analysis, EDA",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Spring Boot, Motion Graphics, Java, Tally, Customer Service, Kubernetes, Visual Identity, C#, Android, Photoshop",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Game Design, Spring Boot, Customer Service, WordPress, Tally, Java, Photoshop, Visual Identity, Angular, Arduino",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "NumPy, Tableau, Machine Learning, Python, Model Evaluation, Jupyter Notebook, Matplotlib, Model Deployment, Scikit-learn, Classification",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "NLP, A/B Testing, Azure, Deep Learning, NumPy, Data Visualization, Google Cloud, Model Deployment, PyTorch",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Clustering, MLOps, PyTorch, Regression, Keras, Bayesian Inference, Feature Engineering, Google Cloud, Data Analysis, A/B Testing",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Accounting, Android, Java, Hospitality, SEO, Networking, Spring Boot, Marketing, Salesforce, Arduino",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Visual Identity, Android, Marketing, CRM, Game Design, Ansible, C#, DevOps, Photoshop",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Python, Power BI, Bayesian Inference, Statistics, Machine Learning, Data Visualization, MLFlow, Data Wrangling, Deep Learning",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Google Cloud, TensorFlow, Feature Engineering, SQL, Pandas, Regression, AWS, Deep Learning, Keras",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "React, Customer Service, Linux, Motion Graphics, Angular, DevOps, CRM, Marketing, Flutter, Arduino",
+    "label": 0
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Tableau, Keras, Feature Engineering, Model Deployment, Google Cloud, Data Visualization, TensorFlow, Pandas, AWS",
+    "label": 1
+  },
+  {
+    "goal": "Data Scientist",
+    "resume_text": "Matplotlib, Data Visualization, Data Wrangling, Azure, Model Deployment, Data Analysis, Clustering, Regression, SQL, Model Evaluation",
+    "label": 1
+  }
+]
