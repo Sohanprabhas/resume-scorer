@@ -1,0 +1,25 @@
+# Bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+
+# Logs and test cache
+*.log
+.pytest_cache/
+.coverage
+
+# Docker image or output archives
+*.tar
+*.zip
+resume-scorer.tar
+
+# Environment and secrets (if any)
+.env
+
+# VS Code settings (optional)
+.vscode/
