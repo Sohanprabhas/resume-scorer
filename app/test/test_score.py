@@ -9,7 +9,7 @@ def client():
     with TestClient(app) as client:
         yield client
 
-def test_score_response_time():
+def test_score_response_time(client):
     resume_text = "Python, Java, SQL, Docker, System Design, DSA, Microservices"
     payload = {
         "student_id": "timing001",
