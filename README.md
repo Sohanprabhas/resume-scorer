@@ -132,7 +132,7 @@ Visit the API at: [http://localhost:8000/docs](http://localhost:8000/docs)
 
 
 
-## ⚙ Configuration – `config.json`
+##  Configuration – `config.json`
 
 json
 {
