@@ -169,4 +169,3 @@ If the config is missing or invalid, the service will terminate with an error.
 ##  Contact
 
 -  Email: sohannaidu040@gmail.com
--  Phone: 6305181379
